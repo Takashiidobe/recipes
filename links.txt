@@ -1,0 +1,5246 @@
+
+FILE: src/music/_music.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/btree-index.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/anomaly-detection-with-stats.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/_postgres.md
+
+  19 links checked.
+
+FILE: src/databases/postgres/avoid-indexes-on-columns-with-low-selectivity.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/make-indexes-invisible.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/cluster.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/disable-constraints-and-indexes-during-bulk-loads.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/always-load-sorted-data.md
+
+  2 links checked.
+
+FILE: src/databases/postgres/unlogged-tables.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/partial-indexes.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/brin-index.md
+
+  1 links checked.
+
+FILE: src/databases/postgres/explain-and-analyze.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/schedule-at-uneven-times.md
+
+  1 links checked.
+
+FILE: src/databases/postgres/gin-index.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/row-level-security.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/vacuum.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/formatting-timestamps.md
+  [✖] https://www.postgresql.org/docs/current/functions-formatting
+
+  1 links checked.
+  [✖] https://www.postgresql.org/docs/current/functions-formatting → Status: 404
+
+FILE: src/databases/postgres/hash-index.md
+
+  1 links checked.
+
+FILE: src/databases/postgres/update-only-what-needs-updating.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/use-hashing-to-reduce-disk-usage.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/coalesce.md
+
+  0 links checked.
+
+FILE: src/databases/postgres/type-casting.md
+
+  0 links checked.
+
+FILE: src/databases/_databases.md
+
+  2 links checked.
+
+FILE: src/databases/sql/read-only-table-swap.md
+
+  0 links checked.
+
+FILE: src/databases/sql/setup-postgrest-dbmate-redoc.md
+
+  0 links checked.
+
+FILE: src/databases/sql/setup-pgtap-and-pg-prove.md
+
+  1 links checked.
+
+FILE: src/databases/sql/email-registration.md
+
+  0 links checked.
+
+FILE: src/databases/sql/effective-sql.md
+
+  0 links checked.
+
+FILE: src/databases/sql/_sql.md
+
+  5 links checked.
+
+FILE: src/devops/_devops.md
+
+  5 links checked.
+
+FILE: src/devops/glances.md
+
+  0 links checked.
+
+FILE: src/devops/hardening-linux.md
+
+  1 links checked.
+
+FILE: src/devops/load-testing-with-bombardier.md
+
+  0 links checked.
+
+FILE: src/devops/installing-caddy.md
+
+  0 links checked.
+
+FILE: src/devops/adding-ssl-to-nginx.md
+
+  0 links checked.
+
+FILE: src/tools/vim/diffing-with-vim.md
+
+  0 links checked.
+
+FILE: src/tools/vim/add-tab-to-vim.md
+
+  0 links checked.
+
+FILE: src/tools/vim/yanking-text-to-registers.md
+  [✖] http://vim.wikia.com/wiki/Replace_a_word_with_yanked_text.md
+
+  2 links checked.
+  [✖] http://vim.wikia.com/wiki/Replace_a_word_with_yanked_text.md → Status: 404
+
+FILE: src/tools/vim/delete-to-char.md
+
+  0 links checked.
+
+FILE: src/tools/vim/_vim.md
+
+  6 links checked.
+
+FILE: src/tools/vim/search-and-replace-with-vim.md
+
+  0 links checked.
+
+FILE: src/tools/vim/sorting-with-vim.md
+
+  0 links checked.
+
+FILE: src/tools/pandoc/_pandoc.md
+
+  0 links checked.
+
+FILE: src/tools/pandoc/epub-to-html-with-pandoc.md
+
+  0 links checked.
+
+FILE: src/tools/pandoc/to-pdf.md
+  [✖] https://github.com/Wandmalfarbe/pandoc-latex-template.md
+
+  1 links checked.
+  [✖] https://github.com/Wandmalfarbe/pandoc-latex-template.md → Status: 404
+
+FILE: src/tools/hugo/_hugo.md
+
+  0 links checked.
+
+FILE: src/tools/hugo/cstate.md
+  [✖] https://github.com/cstate/cstate.md
+  [✖] https://github.com/cstate/cstate/wiki.md
+
+  2 links checked.
+  [✖] https://github.com/cstate/cstate.md → Status: 404
+  [✖] https://github.com/cstate/cstate/wiki.md → Status: 406
+
+FILE: src/tools/homebrew/using-different-homebrew-formula-versions.md
+
+  0 links checked.
+
+FILE: src/tools/homebrew/_homebrew.md
+
+  1 links checked.
+
+FILE: src/tools/comby/_comby.md
+  [✖] https://github.com/comby-tools/comby.md
+  [✖] https://comby.live/.md
+
+  2 links checked.
+  [✖] https://github.com/comby-tools/comby.md → Status: 404
+  [✖] https://comby.live/.md → Status: 404
+
+FILE: src/tools/_tools.md
+
+  8 links checked.
+
+FILE: src/tools/packages/newsboat.md
+
+  0 links checked.
+
+FILE: src/tools/packages/watchexec.md
+
+  0 links checked.
+
+FILE: src/tools/packages/aerc.md
+
+  0 links checked.
+
+FILE: src/tools/packages/sdcv.md
+
+  0 links checked.
+
+FILE: src/tools/packages/lazy-docker.md
+  [✖] https://github.com/jesseduffield/lazydocker.md
+
+  1 links checked.
+  [✖] https://github.com/jesseduffield/lazydocker.md → Status: 404
+
+FILE: src/tools/packages/responsively.md
+
+  0 links checked.
+
+FILE: src/tools/packages/miniserve.md
+
+  0 links checked.
+
+FILE: src/tools/packages/id3tool.md
+
+  0 links checked.
+
+FILE: src/tools/packages/jenv.md
+
+  0 links checked.
+
+FILE: src/tools/packages/gooey.md
+
+  0 links checked.
+
+FILE: src/tools/packages/local-stack.md
+
+  0 links checked.
+
+FILE: src/tools/packages/_packages.md
+
+  11 links checked.
+
+FILE: src/tools/caddy/restart-caddy-on-startup.md
+
+  0 links checked.
+
+FILE: src/tools/caddy/_caddy.md
+
+  0 links checked.
+
+FILE: src/tools/caddy/ssl-certs-on-localhost.md
+
+  0 links checked.
+
+FILE: src/tools/git/follow-changes-made-to-file.md
+
+  0 links checked.
+
+FILE: src/tools/git/delta.md
+  [✖] https://github.com/dandavison/delta.md
+
+  1 links checked.
+  [✖] https://github.com/dandavison/delta.md → Status: 404
+
+FILE: src/tools/git/empty-git-commits.md
+
+  0 links checked.
+
+FILE: src/tools/git/git-instaweb.md
+
+  0 links checked.
+
+FILE: src/tools/git/_git.md
+
+  0 links checked.
+
+FILE: src/tools/git/push-to-multiple-remotes-at-the-same-time.md
+
+  0 links checked.
+
+FILE: src/tools/git/setup-gitea.md
+  [✖] https://www.scaleway.com/en/docs/configure-gitea-code-hosting-solution/.md
+
+  1 links checked.
+  [✖] https://www.scaleway.com/en/docs/configure-gitea-code-hosting-solution/.md → Status: 404
+
+FILE: src/tools/git/checkout-file-from-another-branch.md
+
+  0 links checked.
+
+FILE: src/tools/git/setup-git-on-server.md
+
+  0 links checked.
+
+FILE: src/data-structures/_data-structures.md
+
+  9 links checked.
+
+FILE: src/data-structures/big-o-complexity.md
+  [✖] /BigOComplexity.png
+
+  1 links checked.
+  [✖] /BigOComplexity.png → Status: 400
+
+FILE: src/data-structures/hash-tables.md
+
+  0 links checked.
+
+FILE: src/data-structures/iteration-vs-recursion.md
+
+  0 links checked.
+
+FILE: src/data-structures/nodes.md
+  [✖] /ChildlessBinaryTreeNode.png
+  [✖] /FullBinaryTreeNode.png
+
+  2 links checked.
+  [✖] /ChildlessBinaryTreeNode.png → Status: 400
+  [✖] /FullBinaryTreeNode.png → Status: 400
+
+FILE: src/data-structures/hyperloglogs.md
+
+  0 links checked.
+
+FILE: src/data-structures/memory.md
+  [✖] /Memory.png
+  [✖] /MemoryGrowth.png
+  [✖] /StackAllocation.png
+  [✖] /HeapAllocation.png
+
+  4 links checked.
+  [✖] /Memory.png → Status: 400
+  [✖] /MemoryGrowth.png → Status: 400
+  [✖] /StackAllocation.png → Status: 400
+  [✖] /HeapAllocation.png → Status: 400
+
+FILE: src/data-structures/pointers.md
+
+  0 links checked.
+
+FILE: src/data-structures/arrays.md
+  [✖] /Array.png
+  [✖] /ArrayList.png
+
+  2 links checked.
+  [✖] /Array.png → Status: 400
+  [✖] /ArrayList.png → Status: 400
+
+FILE: src/data-structures/singly-linked-lists.md
+
+  0 links checked.
+
+FILE: src/frontend/analyze-webpack-bundle-size.md
+
+  0 links checked.
+
+FILE: src/frontend/_frontend.md
+
+  1 links checked.
+
+FILE: src/papers/_papers.md
+
+  14 links checked.
+
+FILE: src/papers/distributed-systems/solution-of-a-problem-in-concurrent-programming-control.md
+
+  0 links checked.
+
+FILE: src/papers/distributed-systems/_distributed-systems.md
+
+  2 links checked.
+
+FILE: src/papers/distributed-systems/the-akamai-network.md
+
+  0 links checked.
+
+FILE: src/papers/databases/_databases.md
+
+  0 links checked.
+
+FILE: src/papers/data-structures/_data-structures.md
+
+  0 links checked.
+
+FILE: src/papers/sublinear-algorithms/_sublinear-algorithms.md
+
+  0 links checked.
+
+FILE: src/papers/datastores/_datastores.md
+
+  0 links checked.
+
+FILE: src/papers/non-blocking-algorithms/_non-blocking-algorithms.md
+
+  0 links checked.
+
+FILE: src/papers/cryptography/_cryptography.md
+
+  0 links checked.
+
+FILE: src/papers/networking/a-protocol-for-packet-network-intercommunication.md
+
+  0 links checked.
+
+FILE: src/papers/networking/_networking.md
+
+  1 links checked.
+
+FILE: src/papers/distributed-file-systems/_distributed-file-systems.md
+
+  2 links checked.
+
+FILE: src/papers/distributed-file-systems/the-rsync-algorithm.md
+
+  0 links checked.
+
+FILE: src/papers/distributed-file-systems/the-chubby-lock-service.md
+
+  0 links checked.
+
+FILE: src/papers/concurrency/_concurrency.md
+
+  0 links checked.
+
+FILE: src/papers/streaming-algorithms/_streaming-algorithms.md
+
+  0 links checked.
+
+FILE: src/papers/garbage-collection/_garbage-collection.md
+
+  0 links checked.
+
+FILE: src/papers/caching/_caching.md
+
+  0 links checked.
+
+FILE: src/papers/operating-systems/reflections-on-trusting-trust.md
+
+  0 links checked.
+
+FILE: src/papers/operating-systems/_operating-systems.md
+
+  1 links checked.
+
+FILE: src/papers/virtual-machines/_virtual-machines.md
+
+  0 links checked.
+
+FILE: src/quotes/_quotes.md
+
+  0 links checked.
+
+FILE: src/security/constant-time-comparison.md
+
+  0 links checked.
+
+FILE: src/security/_security.md
+
+  2 links checked.
+
+FILE: src/security/fail2ban.md
+
+  1 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/necessary-roads.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/task-assignment.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/substring-reversals.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/one-bit-positions.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/new-roads-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/dynamic-connectivity.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/houses-and-schools.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/_advanced-techniques.md
+
+  24 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/cut-and-paste.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/monster-game-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/reachability-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/distinct-routes-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/parcel-delivery.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/signal-processing.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/subarray-squares.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/hamming-distance.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/apples-and-bananas.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/eulerian-subgraphs.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/reversals-and-sums.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/reachable-nodes.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/knuth-division.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/necessary-cities.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/meet-in-the-middle.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/monster-game-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/advanced-techniques/beautiful-subgrids.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/monsters.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/road-construction.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/shortest-routes-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/planets-queries-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/distinct-routes.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/police-chase.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/labyrinth.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/school-dance.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/high-score.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/planets-queries-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/knights-tour.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/round-trip-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/download-speed.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/round-trip.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/longest-flight-route.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/investigation.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/coin-collector.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/building-roads.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/road-reparation.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/flight-routes-check.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/_graph-algorithms.md
+
+  36 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/giant-pizza.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/game-routes.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/mail-delivery.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/de-bruijn-sequence.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/planets-cycles.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/course-schedule.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/hamiltonian-flights.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/cycle-finding.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/flight-routes.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/building-teams.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/counting-rooms.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/shortest-routes-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/planets-and-kingdoms.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/flight-discount.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/message-route.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/graph-algorithms/teleporters-path.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/stick-lengths.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/josephus-problem-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/playlist.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/nested-ranges-count.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/array-division.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/josephus-problem-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/_sorting-and-searching.md
+
+  35 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/missing-coin-sum.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/ferris-wheel.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/sum-of-four-values.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/restaurant-customers.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/traffic-lights.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/sliding-median.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/subarray-distinct-values.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/movie-festival-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/distinct-numbers.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/subarray-divisibility.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/factory-machines.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/movie-festival.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/subarray-sums-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/towers.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/collecting-numbers.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/maximum-subarray-sum.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/sliding-cost.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/sum-of-three-values.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/reading-books.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/collecting-numbers-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/subarray-sums-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/concert-tickets.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/apartments.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/tasks-and-deadlines.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/nested-ranges-check.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/sum-of-two-values.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/maximum-subarray-sum-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/nearest-smaller-values.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/sorting-and-searching/room-allocation.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/polynomial-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/subarray-sum-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/prefix-sum-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/forest-queries-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/static-range-minimum-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/salary-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/range-xor-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/hotel-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/range-update-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/distinct-values-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/forest-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/range-updates-and-sums.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/range-queries-and-copies.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/pizzeria-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/dynamic-range-sum-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/list-removals.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/_range-queries.md
+
+  19 links checked.
+
+FILE: src/algorithms/cses/range-queries/dynamic-range-minimum-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/static-range-sum-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/range-queries/increasing-array-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/divisor-analysis.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/nim-game-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/distributing-apples.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/bracket-sequences-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/common-divisors.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/bracket-sequences-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/graph-paths-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/another-game.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/graph-paths-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/binomial-coefficients.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/creating-strings-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/candy-lottery.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/grundys-game.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/nim-game-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/stick-game.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/stair-game.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/_mathematics.md
+
+  31 links checked.
+
+FILE: src/algorithms/cses/mathematics/inversion-probability.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/throwing-dice.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/counting-divisors.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/counting-necklaces.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/exponentiation-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/exponentiation.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/counting-coprime-pairs.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/christmas-party.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/fibonacci-numbers.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/moving-robots.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/josephus-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/counting-grids.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/dice-probability.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/prime-multiples.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/mathematics/sum-of-divisors.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/counting-numbers.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/counting-towers.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/removing-digits.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/coin-combinations-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/money-sums.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/grid-paths.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/elevator-rides.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/minimizing-coins.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/projects.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/rectangle-cutting.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/book-shop.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/counting-tilings.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/increasing-subsequence.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/array-description.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/_dynamic-programming.md
+
+  19 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/removal-game.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/two-sets-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/coin-combinations-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/dice-combinations.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/dynamic-programming/edit-distance.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/tree-matching.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/distinct-colors.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/subordinates.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/_tree-algorithms.md
+
+  16 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/path-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/company-queries-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/tree-diameter.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/distance-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/fixed-length-paths-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/tree-distances-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/finding-a-centroid.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/fixed-length-paths-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/company-queries-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/subtree-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/path-queries-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/tree-distances-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/tree-algorithms/counting-paths.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/distinct-substrings.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/longest-palindrome.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/counting-patterns.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/_string-algorithms.md
+
+  17 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/word-combinations.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/finding-patterns.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/finding-periods.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/minimal-rotation.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/pattern-positions.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/palindrome-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/finding-borders.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/required-substring.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/string-functions.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/substring-distribution.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/string-matching.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/substring-order-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/substring-order-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/string-algorithms/repeating-substring.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/book-shop-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/permutations-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/two-stacks-sorting.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/coin-arrangement.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/cyclic-array.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/area-of-rectangles.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/multiplication-table.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/strongly-connected-edges.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/swap-game.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/food-division.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/tree-traversals.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/monotone-subsequences.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/school-excursion.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/pyramid-array.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/advertisement.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/number-grid.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/counting-bits.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/counting-sequences.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/filling-trominos.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/_additional-problems.md
+
+  77 links checked.
+
+FILE: src/algorithms/cses/additional-problems/bit-substrings.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/coin-grid.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/grid-paths.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/stick-divisions.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/shortest-subsequence.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/maximum-building-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/network-breakdown.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/bit-inversions.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/intersection-points.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/bit-problem.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/coding-company.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/functional-graph-distribution.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/letter-pair-move-game.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/swap-round-sorting.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/string-transform.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/new-flight-routes.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/tree-isomorphism-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/writing-numbers.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/visiting-cities.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/grid-completion.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/flight-route-requests.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/special-substrings.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/movie-festival-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/increasing-array-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/xor-pyramid.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/permutation-inversions.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/reversal-sorting.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/even-outdegree-edges.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/empty-string.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/increasing-subsequence-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/maximum-building-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/grid-puzzle-i.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/list-of-sums.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/robot-path.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/network-renovation.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/counting-bishops.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/programmers-and-artists.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/sorting-methods.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/maximum-xor-subarray.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/graph-girth.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/grid-puzzle-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/creating-offices.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/stack-weights.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/missing-coin-sum-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/critical-cities.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/counting-reorders.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/string-removals.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/grid-path-construction.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/tree-isomorphism-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/binary-subsequences.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/inverse-inversions.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/chess-tournament.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/prufer-code.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/acyclic-graph-edges.md
+
+  2 links checked.
+
+FILE: src/algorithms/cses/additional-problems/string-reorder.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/course-schedule-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/removing-digits-ii.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/additional-problems/forbidden-cities.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/_cses.md
+
+  11 links checked.
+
+FILE: src/algorithms/cses/geometry/point-location-test.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/geometry/_geometry.md
+
+  7 links checked.
+
+FILE: src/algorithms/cses/geometry/minimum-euclidean-distance.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/geometry/polygon-area.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/geometry/line-segment-intersection.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/geometry/convex-hull.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/geometry/point-in-polygon.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/geometry/polygon-lattice-points.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/chessboard-and-queens.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/missing-number.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/coin-piles.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/bit-strings.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/_introductory.md
+
+  19 links checked.
+
+FILE: src/algorithms/cses/introductory/tower-of-hanoi.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/weird-algorithm.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/grid-paths.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/digit-queries.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/two-sets.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/gray-code.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/apple-division.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/repetitions.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/palindrome-reorder.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/permutations.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/number-spiral.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/two-knights.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/trailing-zeros.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/increasing-array.md
+
+  0 links checked.
+
+FILE: src/algorithms/cses/introductory/creating-strings.md
+
+  0 links checked.
+
+FILE: src/algorithms/99-problems/ocaml/lists/_99-problems-ocaml-lists.md
+
+  0 links checked.
+
+FILE: src/algorithms/99-problems/ocaml/_99-problems-ocaml.md
+
+  0 links checked.
+
+FILE: src/algorithms/99-problems/clojure/lists/_99-problems-clojure-lists.md
+
+  0 links checked.
+
+FILE: src/algorithms/99-problems/clojure/_99-problems-clojure.md
+
+  1 links checked.
+
+FILE: src/algorithms/99-problems/rust/lists/_99-problems-rust-lists.md
+
+  0 links checked.
+
+FILE: src/algorithms/99-problems/rust/arithmetic/_99-problems-rust-arithmetic.md
+
+  0 links checked.
+
+FILE: src/algorithms/99-problems/rust/_99-problems-rust.md
+
+  2 links checked.
+
+FILE: src/algorithms/99-problems/cpp/lists/_99-problems-cpp-lists.md
+
+  0 links checked.
+
+FILE: src/algorithms/99-problems/cpp/_99-problems-cpp.md
+
+  1 links checked.
+
+FILE: src/algorithms/99-problems/_99-problems.md
+
+  4 links checked.
+
+FILE: src/algorithms/leetcode/explanations/_explanations.md
+
+  0 links checked.
+
+FILE: src/algorithms/leetcode/explanations/104-maximum-depth-of-binary-tree.md
+
+  1 links checked.
+
+FILE: src/algorithms/leetcode/explanations/62-unique-paths.md
+  [✖] ./assets/right-corner-1.png
+
+  5 links checked.
+  [✖] ./assets/right-corner-1.png → Status: 400
+
+FILE: src/algorithms/leetcode/_leetcode.md
+
+  2 links checked.
+
+FILE: src/algorithms/leetcode/rust/valid-parentheses-rs.md
+
+  0 links checked.
+
+FILE: src/algorithms/leetcode/rust/_leetcode-rust.md
+
+  3 links checked.
+
+FILE: src/algorithms/leetcode/rust/two-sum-rs.md
+
+  0 links checked.
+
+FILE: src/algorithms/leetcode/rust/binary-tree-inorder-traversal-rs.md
+
+  0 links checked.
+
+FILE: src/algorithms/interview-questions/bfs.md
+
+  0 links checked.
+
+FILE: src/algorithms/interview-questions/lowest-common-ancestor-in-binary-tree.md
+
+  0 links checked.
+
+FILE: src/algorithms/interview-questions/shortest-path-in-binary-matrix.md
+
+  0 links checked.
+
+FILE: src/algorithms/interview-questions/insert-interval.md
+
+  0 links checked.
+
+FILE: src/algorithms/interview-questions/calculate-best-discount.md
+
+  0 links checked.
+
+FILE: src/algorithms/interview-questions/_interview-questions.md
+
+  4 links checked.
+
+FILE: src/algorithms/_algorithms.md
+
+  5 links checked.
+
+FILE: src/algorithms/binary-search/_template.md
+
+  0 links checked.
+
+FILE: src/algorithms/binary-search/_binary-search.md
+
+  5 links checked.
+
+FILE: src/algorithms/binary-search/height-balanced-tree.md
+
+  0 links checked.
+
+FILE: src/algorithms/binary-search/count-nodes-in-complete-binary-tree.md
+
+  0 links checked.
+
+FILE: src/algorithms/binary-search/tree-sum.md
+
+  0 links checked.
+
+FILE: src/algorithms/binary-search/zero-matrix.md
+
+  0 links checked.
+
+FILE: src/algorithms/binary-search/univalue-tree.md
+
+  0 links checked.
+
+FILE: src/algorithms/ctci/_ctci.md
+
+  2 links checked.
+
+FILE: src/algorithms/ctci/rust/arrays/ctci-rust-arrays.md
+
+  0 links checked.
+
+FILE: src/algorithms/ctci/rust/ctci-rust.md
+
+  1 links checked.
+
+FILE: src/algorithms/ctci/cpp/ctci-cpp.md
+
+  1 links checked.
+
+FILE: src/algorithms/ctci/cpp/arrays/ctci-cpp-arrays.md
+
+  0 links checked.
+
+FILE: src/algorithms/cp-algorithms/minimum-stack.md
+
+  0 links checked.
+
+FILE: src/algorithms/cp-algorithms/binary-exponentation.md
+
+  0 links checked.
+
+FILE: src/algorithms/cp-algorithms/_cp-algorithms.md
+
+  1 links checked.
+
+FILE: src/algorithms/cp-algorithms/minimum-queue.md
+
+  0 links checked.
+
+FILE: src/talks/a-lesson-on-elementary-worldly-wisdom.md
+
+  0 links checked.
+
+FILE: src/talks/atoms-for-peace.md
+
+  0 links checked.
+
+FILE: src/talks/the-third-philippic.md
+
+  0 links checked.
+
+FILE: src/talks/the-danger-of-a-single-story.md
+
+  0 links checked.
+
+FILE: src/talks/enough.md
+
+  0 links checked.
+
+FILE: src/talks/the-ballot-or-the-bullet.md
+
+  0 links checked.
+
+FILE: src/talks/the-anatomy-of-trust.md
+
+  0 links checked.
+
+FILE: src/talks/this-is-water.md
+
+  0 links checked.
+
+FILE: src/talks/the-multidisciplinary-approach-to-thinking.md
+
+  0 links checked.
+
+FILE: src/talks/every-man-a-king.md
+
+  0 links checked.
+
+FILE: src/talks/what-matters-more-than-your-talents.md
+
+  0 links checked.
+
+FILE: src/talks/cross-of-iron.md
+
+  0 links checked.
+
+FILE: src/talks/_talks.md
+
+  16 links checked.
+
+FILE: src/talks/make-your-bed.md
+
+  0 links checked.
+
+FILE: src/talks/inventing-on-principle.md
+
+  0 links checked.
+
+FILE: src/talks/the-perils-of-indifference.md
+
+  0 links checked.
+
+FILE: src/talks/the-art-of-doing-science-and-engineering.md
+
+  0 links checked.
+
+FILE: src/books/category-theory-for-programmers/free-monoids.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/yoneda-embedding.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/kan-extensions.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/algebras-for-monads.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/declarative-programming.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/simple-algebraic-data-types.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/types-and-functions.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/lawvere-theories.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/comonads.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/kleisli-categories.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/adjuctions.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/products-and-coproducts.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/functoriality.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/function-types.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/its-all-about-morphisms.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/category-the-essence-of-composition.md
+
+  1 links checked.
+
+FILE: src/books/category-theory-for-programmers/topoi.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/enriched-categories.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/limits-and-colimits.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/the-yoneda-lemma.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/_category-theory-for-programmers.md
+
+  31 links checked.
+
+FILE: src/books/category-theory-for-programmers/natural-transformations.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/categories-great-and-small.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/monads-categorically.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/freeforgetful-adjunctions.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/monads-and-effects.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/ends-and-coends.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/monads-programmers-definition.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/functors.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/representable-functors.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/f-algebras.md
+
+  2 links checked.
+
+FILE: src/books/category-theory-for-programmers/monads-monoids-and-categories.md
+
+  1 links checked.
+
+FILE: src/books/the-art-of-postgresql/queries-dml-ddl-tcl-dcl.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/getting-ready-to-read-this-book.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/the-sql-repl----an-interactive-setup.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/how-far-is-the-nearest-pub.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/_the-art-of-postgresql.md
+
+  51 links checked.
+
+FILE: src/books/the-art-of-postgresql/some-relational-theory.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/serialization-and-deserialization.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/denormalization.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/batch-update-moma-collection.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/understanding-relations-and-joins.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/using-trigrams-for-typos.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/an-interview-with-gregoire-hubert.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/software-architecture.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/an-interview-with-markus-winand.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/indexing-strategy.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/the-most-popular-pub-names.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/select-from-where.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/denormalizing-tags-with-intarray.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/isolation-and-locking.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/denormalized-data-types.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/computing-and-caching-in-sql.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/tooling-for-database-modeling.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/sql.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/understanding-window-functions.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/whats-a-postgresql-extension.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/practical-use-case-geonames.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/modelization-anti-patterns.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/normalization.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/order-by-limit-no-offset.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/understanding-nulls.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/triggers.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/an-interview-with-craig-kersteins.md
+
+  1 links checked.
+
+FILE: src/books/the-art-of-postgresql/a-small-application.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/business-logic.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/an-interview-with-kris-jenkins.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/structured-query-language.md
+
+  1 links checked.
+
+FILE: src/books/the-art-of-postgresql/lastfm-million-song-data.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/auditing-changes-with-hstore.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/postgresql-extensions.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/insert-update-delete.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/listen-and-notify.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/not-only-sql.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/group-by-having-with-union-all.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/an-interview-with-yohann-gabory.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/another-small-application.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/get-some-data.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/object-relational-mapping.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/geolocation-with-postgresql.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/counting-distinct-users-with-hyperloglog.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/an-interview-with-alvaro-hernandez-tortosa.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/postgresql-data-types.md
+
+  2 links checked.
+
+FILE: src/books/the-art-of-postgresql/sql-is-code.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/replication.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/schema-design-and-management.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/optimizing-server-settings.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/_high-performance-mysql.md
+
+  15 links checked.
+
+FILE: src/books/high-performance-mysql/upgrading-mysql.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/scaling-mysql.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/mysql-architecture.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/mysql-on-kubernetes.md
+
+  1 links checked.
+
+FILE: src/books/high-performance-mysql/indexing-for-high-performance.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/performance-schema.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/compliance-with-mysql.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/mysql-in-the-cloud.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/operating-system-and-hardware-optimization.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/query-performance-optimization.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/backup-and-recovery.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-mysql/monitoring-in-a-reliability-engineering-world.md
+
+  2 links checked.
+
+FILE: src/books/haskell-from-first-principles/_haskell-from-first-principles.md
+
+  0 links checked.
+
+FILE: src/books/mans-search-for-meaning.md
+
+  0 links checked.
+
+FILE: src/books/the-new-economics.md
+
+  0 links checked.
+
+FILE: src/books/efficient-mysql-performance/access-patterns.md
+
+  2 links checked.
+
+FILE: src/books/efficient-mysql-performance/indexes-and-indexing.md
+
+  2 links checked.
+
+FILE: src/books/efficient-mysql-performance/query-response-time.md
+
+  1 links checked.
+
+FILE: src/books/efficient-mysql-performance/replication-lag.md
+
+  2 links checked.
+
+FILE: src/books/efficient-mysql-performance/data.md
+
+  2 links checked.
+
+FILE: src/books/efficient-mysql-performance/sharding.md
+
+  2 links checked.
+
+FILE: src/books/efficient-mysql-performance/server-metrics.md
+
+  2 links checked.
+
+FILE: src/books/efficient-mysql-performance/transactions.md
+
+  1 links checked.
+
+FILE: src/books/efficient-mysql-performance/_efficient-mysql-performance.md
+
+  8 links checked.
+
+FILE: src/books/clean-code/emergence.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/clean-code.md
+
+  1 links checked.
+
+FILE: src/books/clean-code/objects-and-data-structures.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/comments.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/_clean-code.md
+
+  17 links checked.
+
+FILE: src/books/clean-code/classes.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/unit-tests.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/systems.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/successive-refinement.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/boundaries.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/functions.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/refactoring-serialdate.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/smells-and-heuristics.md
+
+  1 links checked.
+
+FILE: src/books/clean-code/error-handling.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/meaningful-names.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/formatting.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/junit-internals.md
+
+  2 links checked.
+
+FILE: src/books/clean-code/concurrency.md
+
+  2 links checked.
+
+FILE: src/books/educated.md
+
+  0 links checked.
+
+FILE: src/books/structure-and-interpretation-of-computer-programs/_structure-and-interpretation-of-computer-programs.md
+
+  0 links checked.
+
+FILE: src/books/inside-the-tornado.md
+
+  0 links checked.
+
+FILE: src/books/cses/string-algorithms.md
+
+  2 links checked.
+
+FILE: src/books/cses/geometry.md
+
+  2 links checked.
+
+FILE: src/books/cses/advanced-graph-algorithms.md
+
+  2 links checked.
+
+FILE: src/books/cses/data-structures.md
+
+  2 links checked.
+
+FILE: src/books/cses/additional-topics.md
+
+  1 links checked.
+
+FILE: src/books/cses/tree-algorithms.md
+
+  2 links checked.
+
+FILE: src/books/cses/algorithm-design-topics.md
+
+  2 links checked.
+
+FILE: src/books/cses/introduction.md
+
+  1 links checked.
+
+FILE: src/books/cses/range-queries.md
+
+  2 links checked.
+
+FILE: src/books/cses/mathematics.md
+
+  2 links checked.
+
+FILE: src/books/cses/sorting-and-searching.md
+
+  2 links checked.
+
+FILE: src/books/cses/efficiency.md
+
+  2 links checked.
+
+FILE: src/books/cses/programming-techniques.md
+
+  2 links checked.
+
+FILE: src/books/cses/_cses.md
+
+  15 links checked.
+
+FILE: src/books/cses/dynamic-programming.md
+
+  2 links checked.
+
+FILE: src/books/cses/graph-algorithms.md
+
+  2 links checked.
+
+FILE: src/books/grit.md
+
+  0 links checked.
+
+FILE: src/books/the-daily-stoic/_the-daily-stoic.md
+
+  2 links checked.
+
+FILE: src/books/the-daily-stoic/january.md
+
+  0 links checked.
+
+FILE: src/books/the-daily-stoic/february.md
+
+  0 links checked.
+
+FILE: src/books/rust-for-rustaceans/unsafe-code.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/foreign-function-interfaces.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/macros.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/rust-without-the-standard-library.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/foundations.md
+
+  1 links checked.
+
+FILE: src/books/rust-for-rustaceans/testing.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/concurrency-and-parallelism.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/_rust-for-rustaceans.md
+
+  13 links checked.
+
+FILE: src/books/rust-for-rustaceans/designing-interfaces.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/error-handling.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/types.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/asynchronous-programming.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/project-structure.md
+
+  2 links checked.
+
+FILE: src/books/rust-for-rustaceans/the-rust-ecosystem.md
+
+  1 links checked.
+
+FILE: src/books/probabilistic-data-structures-and-algorithms-for-big-data-applications/hashing.md
+
+  1 links checked.
+
+FILE: src/books/probabilistic-data-structures-and-algorithms-for-big-data-applications/rank.md
+
+  2 links checked.
+
+FILE: src/books/probabilistic-data-structures-and-algorithms-for-big-data-applications/membership.md
+
+  2 links checked.
+
+FILE: src/books/probabilistic-data-structures-and-algorithms-for-big-data-applications/_probabilistic-data-structures-and-algorithms-for-big-data-applications.md
+
+  6 links checked.
+
+FILE: src/books/probabilistic-data-structures-and-algorithms-for-big-data-applications/cardinality.md
+
+  2 links checked.
+
+FILE: src/books/probabilistic-data-structures-and-algorithms-for-big-data-applications/similarity.md
+
+  1 links checked.
+
+FILE: src/books/probabilistic-data-structures-and-algorithms-for-big-data-applications/frequency.md
+
+  2 links checked.
+
+FILE: src/books/crossing-the-chasm.md
+
+  0 links checked.
+
+FILE: src/books/clean-ruby.md
+
+  0 links checked.
+
+FILE: src/books/the-seven-habits-of-highly-effective-people.md
+
+  0 links checked.
+
+FILE: src/books/real-world-cryptography/end-to-end-encryption.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/hash-functions.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/message-authentication-codes.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/authenticated-encryption.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/randomness-and-secrets.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/where-cryptography-fails-and-final-words.md
+
+  1 links checked.
+
+FILE: src/books/real-world-cryptography/post-quantum-cryptography.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/crypto-as-in-cryptocurrency.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/secure-transport.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/is-this-it-next-generation-cryptography.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/_real-world-cryptography.md
+
+  16 links checked.
+
+FILE: src/books/real-world-cryptography/introduction.md
+
+  1 links checked.
+
+FILE: src/books/real-world-cryptography/signatures-and-zero-knowledge-proofs.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/user-authentication.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/key-exchanges.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/asymmetric-encryption-and-hybrid-encryption.md
+
+  2 links checked.
+
+FILE: src/books/real-world-cryptography/hardware-cryptography.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/type-object.md
+
+  3 links checked.
+
+FILE: src/books/game-programming-patterns/game-loop.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/_game-programming-patterns.md
+
+  19 links checked.
+
+FILE: src/books/game-programming-patterns/singleton.md
+
+  3 links checked.
+
+FILE: src/books/game-programming-patterns/dirty-flag.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/state.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/bytecode.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/service-locator.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/prototype.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/double-buffer.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/component.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/spatial-partition.md
+  [✖] https://en.wikipedia.org/wiki/Grid_(spatial_index).md
+  [✖] http://en.wikipedia.org/wiki/Quad_tree.md
+  [✖] http://en.wikipedia.org/wiki/Binary_space_partitioning.md
+  [✖] http://en.wikipedia.org/wiki/Kd-tree.md
+  [✖] http://en.wikipedia.org/wiki/Bounding_volume_hierarchy.md
+
+  6 links checked.
+  [✖] https://en.wikipedia.org/wiki/Grid_(spatial_index).md → Status: 404
+  [✖] http://en.wikipedia.org/wiki/Quad_tree.md → Status: 404
+  [✖] http://en.wikipedia.org/wiki/Binary_space_partitioning.md → Status: 404
+  [✖] http://en.wikipedia.org/wiki/Kd-tree.md → Status: 404
+  [✖] http://en.wikipedia.org/wiki/Bounding_volume_hierarchy.md → Status: 404
+
+FILE: src/books/game-programming-patterns/update-method.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/command.md
+
+  1 links checked.
+
+FILE: src/books/game-programming-patterns/data-locality.md
+  [✖] https://www.valgrind.org/docs/manual/cg-manual.html.md
+
+  3 links checked.
+  [✖] https://www.valgrind.org/docs/manual/cg-manual.html.md → Status: 404
+
+FILE: src/books/game-programming-patterns/object-pool.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/observer.md
+
+  2 links checked.
+
+FILE: src/books/game-programming-patterns/event-queue.md
+
+  4 links checked.
+
+FILE: src/books/game-programming-patterns/subclass-sandbox.md
+
+  4 links checked.
+
+FILE: src/books/game-programming-patterns/flyweight.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/a-virtual-machine.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/scanning.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/calls-and-functions.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/superclasses.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/representing-code.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/jumping-back-and-forth.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/strings.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/global-variables.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/chunks-of-bytecode.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/inheritance.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/hash-tables.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/_crafting-interpreters.md
+
+  30 links checked.
+
+FILE: src/books/crafting-interpreters/compiling-expressions.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/parsing-expressions.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/classes.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/introduction.md
+
+  1 links checked.
+
+FILE: src/books/crafting-interpreters/the-lox-language.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/scanning-on-demand.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/garbage-collection.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/statements-and-state.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/functions.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/a-map-of-the-territory.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/control-flow.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/resolving-and-binding.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/methods-and-initializers.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/evaluating-expressions.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/closures.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/optimization.md
+
+  1 links checked.
+
+FILE: src/books/crafting-interpreters/local-variables.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/classes-and-instances.md
+
+  2 links checked.
+
+FILE: src/books/crafting-interpreters/types-of-values.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/storage.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/single-sign-on.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/data-center-basics.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/_unix-and-linux-system-administration-handbook.md
+
+  31 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/performance-analysis.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/software-installation-and-management.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/dns-the-domain-name-system.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/continuous-integration-and-delivery.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/drivers-and-the-kernel.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/the-network-file-system.md
+
+  1 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/user-management.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/electronic-mail.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/printing.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/booting-and-system-management-daemons.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/configuration-management.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/methodology-policy-and-politics.md
+
+  1 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/tcpip-networking.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/physical-networking.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/the-filesystem.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/logging.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/process-control.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/where-to-start.md
+
+  1 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/web-hosting.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/cloud-computing.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/ip-routing.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/access-control-and-rootly-powers.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/virtualization.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/smb.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/containers.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/monitoring.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/scripting-and-the-shell.md
+
+  2 links checked.
+
+FILE: src/books/unix-and-linux-system-administration-handbook/security.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/virtual-memory-operations.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/sockets-advanced-topics.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/file-io-the-universal-io-model.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/process-credentials.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/users-and-groups.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/directories-and-links.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/sockets-unix-domain.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/sockets-server-design.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/_the-linux-programming-interface.md
+
+  65 links checked.
+
+FILE: src/books/the-linux-programming-interface/fundamental-concepts.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/process-creation.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/processes.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/system-v-semaphores.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/alternative-io-models.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/threads-thread-synchronization.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/monitoring-file-events-with-inotify.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/file-io-buffering.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/capabilities.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/threads-introduction.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/file-locking.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/threads-further-details.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/pseudoterminals.md
+
+  1 links checked.
+
+FILE: src/books/the-linux-programming-interface/sockets-introduction.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/introduction-to-posix-ipc.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/signals-advanced-features.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/history-and-standards.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/system-v-message-queues.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/times-and-dates.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/file-io-further-details.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/threads-thread-safety-and-per-thread-storage.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/process-resources.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/memory-mappings.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/access-control-lists.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/process-termination.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/system-programming-concepts.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/monitoring-child-processes.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/system-v-shared-memory.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/introduction-to-system-v-ipc.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/memory-allocation.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/advanced-features-of-shared-libraries.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/posix-semaphores.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/file-systems.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/retrieving-system-and-process-information.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/signals-fundamental-concepts.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/posix-shared-memory.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/extended-attributes.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/posix-message-queues.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/signals-signal-handlers.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/terminals.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/interprocess-communication-overview.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/daemons.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/sockets-internet-domains.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/fundamentals-of-shared-libraries.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/sockets-fundamentals-of-tcpip-networks.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/system-limits-and-options.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/writing-secure-privileged-programs.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/file-attributes.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/preface.md
+
+  1 links checked.
+
+FILE: src/books/the-linux-programming-interface/process-priorities-and-scheduling.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/process-groups-sessions-and-job-control.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/timers-and-sleeping.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/pipes-and-fifos.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/process-creation-and-program-execution-in-more-detail.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/threads-thread-cancellation.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/program-execution.md
+
+  2 links checked.
+
+FILE: src/books/the-linux-programming-interface/login-accounting.md
+
+  2 links checked.
+
+FILE: src/books/between-the-world-and-me.md
+
+  0 links checked.
+
+FILE: src/books/born-a-crime.md
+
+  0 links checked.
+
+FILE: src/books/atomic-habits.md
+
+  0 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/second-pass-code-generation.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/arrays-and-heap-allocation.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/typescript-basics.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/introduction-to-part-ii.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/abstract-syntax-tree.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/introduction.md
+
+  1 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/_compiling-to-assembly-from-scratch.md
+
+  14 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/high-level-compiler-overview.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/garbage-collection.md
+
+  1 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/first-pass-the-parser.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/static-type-checking-and-inference.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/visitor-pattern.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/dynamic-typing.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/introduction-to-parser-combinators.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch/introduction-to-arm-assembly-programming.md
+
+  2 links checked.
+
+FILE: src/books/a-tour-of-cpp/history-and-compatibility.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/templates.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/the-basics.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/numerics.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/classes.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/input-and-output.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/utilities.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/user-defined-types.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/algorithms.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/concepts-and-generic-programming.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/strings-and-regular-expressions.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/essential-operations.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/modularity.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/_a-tour-of-cpp.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/containers.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/library-overview.md
+
+  0 links checked.
+
+FILE: src/books/a-tour-of-cpp/concurrency.md
+
+  0 links checked.
+
+FILE: src/books/the-c-programming-language/the-c-programming-language-chapter-5.md
+
+  0 links checked.
+
+FILE: src/books/the-c-programming-language/the-c-programming-language-chapter-1.md
+
+  0 links checked.
+
+FILE: src/books/the-c-programming-language/the-c-programming-language-chapter-4.md
+
+  0 links checked.
+
+FILE: src/books/the-c-programming-language/the-c-programming-language-chapter-3.md
+
+  0 links checked.
+
+FILE: src/books/the-c-programming-language/the-c-programming-language-chapter-7.md
+
+  0 links checked.
+
+FILE: src/books/the-c-programming-language/the-c-programming-language-chapter-6.md
+
+  0 links checked.
+
+FILE: src/books/the-c-programming-language/_the-c-programming-language.md
+
+  8 links checked.
+
+FILE: src/books/the-c-programming-language/the-c-programming-language-chapter-2.md
+
+  0 links checked.
+
+FILE: src/books/the-c-programming-language/the-c-programming-language-chapter-8.md
+
+  0 links checked.
+
+FILE: src/books/how-to-solve-it/how-to-solve-it-chapter-1.md
+
+  0 links checked.
+
+FILE: src/books/how-to-solve-it/_how-to-solve-it.md
+
+  1 links checked.
+
+FILE: src/books/the-art-of-war.md
+
+  0 links checked.
+
+FILE: src/books/the-mythical-man-month.md
+
+  0 links checked.
+
+FILE: src/books/_books.md
+
+  59 links checked.
+
+FILE: src/books/black-swan.md
+
+  0 links checked.
+
+FILE: src/books/street-fighting-mathematics.md
+
+  0 links checked.
+
+FILE: src/books/high-performance-browser-networking/transport-layer-security-tls.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/primer-on-browser-networking.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/brief-history-of-http.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/_high-performance-browser-networking.md
+
+  18 links checked.
+
+FILE: src/books/high-performance-browser-networking/introduction-to-wireless-networks.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/primer-on-latency-and-bandwidth.md
+
+  1 links checked.
+
+FILE: src/books/high-performance-browser-networking/websocket.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/mobile-networks.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/server-sent-events-sse.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/optimizing-application-delivery.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/optimizing-for-mobile-networks.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/building-blocks-of-udp.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/wifi.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/building-blocks-of-tcp.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/primer-on-web-performance.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/http2.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/webrtc.md
+
+  1 links checked.
+
+FILE: src/books/high-performance-browser-networking/http1x.md
+
+  2 links checked.
+
+FILE: src/books/high-performance-browser-networking/xmlhttprequest.md
+
+  2 links checked.
+
+FILE: src/books/long-walk-to-freedom.md
+
+  0 links checked.
+
+FILE: src/books/real-world-ocaml/_real-world-ocaml.md
+
+  0 links checked.
+
+FILE: src/books/sql-performance-explained/the-where-clause.md
+
+  2 links checked.
+
+FILE: src/books/sql-performance-explained/the-join-operation.md
+
+  2 links checked.
+
+FILE: src/books/sql-performance-explained/performance-and-scalability.md
+
+  2 links checked.
+
+FILE: src/books/sql-performance-explained/anatomy-of-an-index.md
+
+  1 links checked.
+
+FILE: src/books/sql-performance-explained/sorting-and-grouping.md
+
+  2 links checked.
+
+FILE: src/books/sql-performance-explained/clustering-data.md
+
+  2 links checked.
+
+FILE: src/books/sql-performance-explained/_sql-performance-explained.md
+
+  9 links checked.
+
+FILE: src/books/sql-performance-explained/modifying-data.md
+
+  2 links checked.
+
+FILE: src/books/sql-performance-explained/partial-results.md
+
+  2 links checked.
+
+FILE: src/books/sql-performance-explained/execution-plans.md
+
+  1 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/basic-synchronization-patterns.md
+
+  2 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/less-classical-synchronization-problems.md
+
+  2 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/synchronization-in-c.md
+
+  1 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/introduction.md
+
+  1 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/classical-synchronization-problems.md
+
+  2 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/not-so-classical-problems.md
+
+  2 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/synchronization-in-python.md
+
+  2 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/not-remotely-classical-problems.md
+
+  2 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/_the-little-book-of-semaphores.md
+
+  9 links checked.
+
+FILE: src/books/the-little-book-of-semaphores/semaphores.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/lazy-evaluation.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/amortization-and-persistence-via-lazy-evaluation.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/eliminating-amortization.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/implicit-recursive-slowdown.md
+
+  1 links checked.
+
+FILE: src/books/purely-functional-data-structures/_purely-functional-data-structures.md
+
+  11 links checked.
+
+FILE: src/books/purely-functional-data-structures/some-familiar-data-structures-in-a-functional-setting.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/introduction.md
+
+  1 links checked.
+
+FILE: src/books/purely-functional-data-structures/numerical-representations.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/lazy-rebuilding.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/persistence.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/fundamentals-of-amortization.md
+
+  2 links checked.
+
+FILE: src/books/purely-functional-data-structures/data-structural-bootstrapping.md
+
+  2 links checked.
+
+FILE: src/books/the-innovators-dilemma/_the-innovators-dilemma.md
+
+  2 links checked.
+
+FILE: src/books/meditations.md
+
+  0 links checked.
+
+FILE: src/books/how-linux-works/_how-linux-works.md
+
+  17 links checked.
+
+FILE: src/books/how-linux-works/development-tools.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/system-configuration-logging-system-time-batch-jobs-and-users.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/introduction-to-compiling-software-from-c-source-code.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/understanding-your-network-and-its-configuration.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/devices.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/a-closer-look-at-processes-and-resource-utilization.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/network-applications-and-services.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/introduction-to-shell-scripts.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/user-environments.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/building-on-the-basics.md
+
+  1 links checked.
+
+FILE: src/books/how-linux-works/basic-commands-directory-hierarchy.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/how-user-space-starts.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/how-the-linux-kernel-boots.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/a-brief-survey-of-the-linux-desktop.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/moving-files-across-the-network.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/disks-and-filesystems.md
+
+  2 links checked.
+
+FILE: src/books/how-linux-works/the-big-picture.md
+
+  1 links checked.
+
+FILE: src/books/the-bitcoin-standard.md
+
+  0 links checked.
+
+FILE: src/books/range-why-generalists-triumph-in-a-specialized-world/_range-why-generalists-triumph-in-a-specialized-world.md
+
+  0 links checked.
+
+FILE: src/books/the-choice.md
+
+  0 links checked.
+
+FILE: src/books/zero-to-one.md
+
+  0 links checked.
+
+FILE: src/books/the-dynamodb-book/data-modeling-examples.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/_the-dynamodb-book.md
+
+  22 links checked.
+
+FILE: src/books/the-dynamodb-book/core-concepts-in-dynamodb.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/the-three-api-action-types.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/building-a-session-store.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/strategies-for-sorting.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/using-the-dynamodb-api.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/strategies-for-many-to-many-relationships.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/from-modeling-to-implementation.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/building-an-e-commerce-application.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/additional-strategies.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/the-what-why-and-when-of-single-table-design-in-dynamodb.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/handling-migrations-in-our-github-example.md
+
+  1 links checked.
+
+FILE: src/books/the-dynamodb-book/strategies-for-filtering.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/the-importance-of-strategies.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/strategies-for-migrations.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/strategies-for-one-to-many-relationships.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/how-to-approach-data-modeling-in-dynamodb.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/building-big-time-deals.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/what-is-dynamodb.md
+
+  1 links checked.
+
+FILE: src/books/the-dynamodb-book/expressions.md
+
+  2 links checked.
+
+FILE: src/books/the-dynamodb-book/advanced-concepts.md
+
+  4 links checked.
+
+FILE: src/books/the-dynamodb-book/recreating-githubs-backend.md
+
+  2 links checked.
+
+FILE: src/books/the-little-mler.md
+
+  0 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-5.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-1.md
+
+  1 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-4.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-13.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-12.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-9.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-11.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-14.md
+
+  1 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-8.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-10.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-3.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-7.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/_learn-you-a-haskell.md
+
+  14 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-6.md
+
+  2 links checked.
+
+FILE: src/books/learn-you-a-haskell/learn-you-a-haskell-chapter-2.md
+
+  2 links checked.
+
+FILE: src/books/design-patterns-elements-of-reusable-object-oriented-software/conclusion.md
+
+  1 links checked.
+
+FILE: src/books/design-patterns-elements-of-reusable-object-oriented-software/creational-patterns.md
+
+  2 links checked.
+
+FILE: src/books/design-patterns-elements-of-reusable-object-oriented-software/introduction.md
+
+  1 links checked.
+
+FILE: src/books/design-patterns-elements-of-reusable-object-oriented-software/a-case-study-designing-a-document-editor.md
+
+  2 links checked.
+
+FILE: src/books/design-patterns-elements-of-reusable-object-oriented-software/_design-patterns-elements-of-reusable-object-oriented-software.md
+
+  6 links checked.
+
+FILE: src/books/design-patterns-elements-of-reusable-object-oriented-software/structural-patterns.md
+
+  2 links checked.
+
+FILE: src/books/design-patterns-elements-of-reusable-object-oriented-software/behavioral-patterns.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/observability-tools.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/network.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/disks.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/benchmarking.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/introduction.md
+
+  1 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/methodologies.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/case-study.md
+
+  1 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/file-systems.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/_systems-performance-enterprise-and-the-cloud.md
+
+  16 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/memory.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/perf.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/bpf.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/operating-systems.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/cloud-computing.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/ftrace.md
+
+  1 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/applications.md
+
+  2 links checked.
+
+FILE: src/books/systems-performance-enterprise-and-the-cloud/cpus.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-3-a-framework-for-system-design-interviews.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-13-design-a-search-autocomplete-system.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-6-design-a-key-value-store.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-15-design-google-drive.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-16-the-learning-continues.md
+
+  1 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-12-design-a-chat-system.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-7-design-a-unique-id-generator-in-distributed-systems.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-5-design-consistent-hashing.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-8-design-a-url-shortener.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-14-design-youtube.md
+
+  6 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-1-scale-from-zero-to-millions-of-users.md
+
+  13 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-2-back-of-the-envelope-estimation.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/_system-design-interview-an-insiders-guide.md
+
+  16 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-11-design-a-news-feed-system.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-10-design-a-notification-system.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-9-design-a-web-crawler.md
+
+  2 links checked.
+
+FILE: src/books/system-design-interview-an-insiders-guide/chapter-4-design-a-rate-limiter.md
+
+  2 links checked.
+
+FILE: src/books/deep-work.md
+
+  0 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/interlude-files-and-directories.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/mechanism-limited-direct-execution.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/mechanism-address-translation.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/summary-dialogue-on-cpu-virtualization.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/lock-based-concurrent-data-structures.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/concurrency-an-introduction.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/file-system-implementation.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/scheduling-proportional-share.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/the-andrew-file-system-afs.md
+
+  1 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/the-abstraction-address-spaces.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/beyond-physical-memory-policies.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/introduction-to-operating-systems.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/locality-and-the-fast-file-system.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/io-devices.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/summary-dialogue-on-memory-virtualization.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/interlude-memory-api.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/interlude-process-api.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/a-dialogue-on-virtualization.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/paging-introduction.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/condition-variables.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/the-abstraction-the-process.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/log-structured-file-systems.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/multiprocessor-scheduling-advanced.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/interlude-thread-api.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/redundant-arrays-of-inexpensive-disks-raids.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/paging-faster-translations-tlbs.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/segmentation.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/a-dialogue-on-the-book.md
+
+  1 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/hard-disk-drives.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/scheduling-the-multi-level-feedback-queue.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/common-concurrency-problems.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/event-based-concurrency-advanced.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/paging-smaller-tables.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/summary-dialogue-on-concurrency.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/distributed-systems.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/scheduling-introduction.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/a-dialogue-on-concurrency.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/complete-virtual-memory-systems.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/a-dialogue-on-memory-virtualization.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/data-integrity-and-protection.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/locks.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/free-space-management.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/flash-based-ssds.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/a-dialogue-on-persistence.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/crash-consistency-fsck-and-journaling.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/beyond-physical-memory-mechanisms.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/_operating-systems-three-easy-pieces.md
+
+  50 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/summary-dialogue-on-persistence.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/suns-network-file-system-nfs.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/semaphores.md
+
+  2 links checked.
+
+FILE: src/books/operating-systems-three-easy-pieces/a-dialogue-on-distribution.md
+
+  2 links checked.
+
+FILE: src/books/being-mortal/_being-mortal.md
+
+  0 links checked.
+
+FILE: src/books/designing-data-intensive-applications/_designing-data-intensive-applications.md
+
+  12 links checked.
+
+FILE: src/books/designing-data-intensive-applications/replication.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/reliable-scalable-and-maintainable-applications.md
+
+  1 links checked.
+
+FILE: src/books/designing-data-intensive-applications/batch-processing.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/stream-processing.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/consistency-and-consensus.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/data-models-and-query-languages.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/encoding-and-evolution.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/distributed-systems-trouble.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/storage-and-retrieval.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/the-future-of-data-systems.md
+
+  1 links checked.
+
+FILE: src/books/designing-data-intensive-applications/transactions.md
+
+  2 links checked.
+
+FILE: src/books/designing-data-intensive-applications/partitioning.md
+
+  2 links checked.
+
+FILE: src/books/compiling-to-assembly-from-scratch.md
+
+  0 links checked.
+
+FILE: src/books/radical-candor.md
+
+  1 links checked.
+
+FILE: src/books/effective-typescript/working-with-any.md
+
+  2 links checked.
+
+FILE: src/books/effective-typescript/type-inference.md
+
+  2 links checked.
+
+FILE: src/books/effective-typescript/_effective-typescript.md
+
+  8 links checked.
+
+FILE: src/books/effective-typescript/getting-to-know-typescript.md
+
+  1 links checked.
+
+FILE: src/books/effective-typescript/types-declarations-and-types.md
+
+  2 links checked.
+
+FILE: src/books/effective-typescript/type-design.md
+
+  2 links checked.
+
+FILE: src/books/effective-typescript/writing-and-running-your-code.md
+
+  2 links checked.
+
+FILE: src/books/effective-typescript/typescripts-type-system.md
+
+  2 links checked.
+
+FILE: src/books/effective-typescript/migrating-to-typescript.md
+
+  1 links checked.
+
+FILE: src/books/the-rust-programming-language.md
+
+  0 links checked.
+
+FILE: src/books/refactoring.md
+
+  0 links checked.
+
+FILE: src/computer-architecture/_computer-architecture.md
+
+  0 links checked.
+
+FILE: src/math/_math.md
+
+  0 links checked.
+
+FILE: src/design-patterns/_design-patterns.md
+
+  1 links checked.
+
+FILE: src/programming-languages/ocaml/real-world-ocaml.md
+
+  1 links checked.
+
+FILE: src/programming-languages/ocaml/_ocaml.md
+
+  1 links checked.
+
+FILE: src/programming-languages/scheme/structure-and-interpretation-of-computer-programs/structure-and-interpretation-of-computer-programs.md
+
+  0 links checked.
+
+FILE: src/programming-languages/scheme/the-little-schemer/the-little-schemer.md
+
+  0 links checked.
+
+FILE: src/programming-languages/scheme/_scheme.md
+
+  0 links checked.
+
+FILE: src/programming-languages/go/godocs.md
+  [✖] golang.org/doc/.md
+
+  1 links checked.
+  [✖] golang.org/doc/.md → Status: 400
+
+FILE: src/programming-languages/go/_go.md
+
+  2 links checked.
+
+FILE: src/programming-languages/go/build-for-different-archs-in-go.md
+
+  0 links checked.
+
+FILE: src/programming-languages/python/_python.md
+
+  0 links checked.
+
+FILE: src/programming-languages/clojure/_clojure.md
+
+  0 links checked.
+
+FILE: src/programming-languages/elixir/monotonic-time.md
+
+  0 links checked.
+
+FILE: src/programming-languages/elixir/_elixir.md
+
+  1 links checked.
+
+FILE: src/programming-languages/typescript/_typescript.md
+
+  0 links checked.
+
+FILE: src/programming-languages/rust/_rust.md
+
+  1 links checked.
+
+FILE: src/programming-languages/rust/rustup-docs.md
+
+  0 links checked.
+
+FILE: src/programming-languages/erlang/_erlang.md
+
+  1 links checked.
+
+FILE: src/programming-languages/erlang/learn-you-some-erlang.md
+
+  1 links checked.
+
+FILE: src/programming-languages/kotlin/head-first-kotlin/head-first-kotlin.md
+
+  0 links checked.
+
+FILE: src/programming-languages/kotlin/_kotlin.md
+
+  1 links checked.
+
+FILE: src/programming-languages/haskell/_haskell.md
+
+  2 links checked.
+
+FILE: src/programming-languages/_programming-languages.md
+
+  16 links checked.
+
+FILE: src/programming-languages/cpp/_cpp.md
+
+  3 links checked.
+
+FILE: src/programming-languages/cpp/effective-modern-cpp/_index.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/a-tour-of-cpp/1_basics/notes.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/a-tour-of-cpp/1_basics/_index.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/a-tour-of-cpp/1-basics/1-basics.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/a-tour-of-cpp/1-basics/notes.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/a-tour-of-cpp/_a-tour-of-cpp.md
+
+  1 links checked.
+
+FILE: src/programming-languages/cpp/a-tour-of-cpp/_index.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/learn-cpp/1_basics/_index.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/learn-cpp/2_functions/_index.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/learn-cpp/README.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/learn-cpp/8_object_oriented_programming/_index.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/learn-cpp/0_introduction/_index.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/learn-cpp/18_input_and_output/_index.md
+
+  0 links checked.
+
+FILE: src/programming-languages/cpp/learn-cpp/_index.md
+  [✖] ./9_operator_overloading/_index.md
+
+  6 links checked.
+  [✖] ./9_operator_overloading/_index.md → Status: 400
+
+FILE: src/programming-languages/cpp/kmp.md
+
+  0 links checked.
+
+FILE: src/programming-languages/javascript/_javascript.md
+
+  1 links checked.
+
+FILE: src/programming-languages/javascript/check-if-array-in-js.md
+  [✖] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray.md
+
+  2 links checked.
+  [✖] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray.md → Status: 404
+
+FILE: src/programming-languages/c/-the-c-programming-language.md
+
+  0 links checked.
+
+FILE: src/programming-languages/c/polymorphism-in-c.md
+
+  0 links checked.
+
+FILE: src/programming-languages/c/_c.md
+
+  3 links checked.
+
+FILE: src/programming-languages/c/tuples-in-c.md
+
+  0 links checked.
+
+FILE: src/programming-languages/ruby/_ruby.md
+
+  1 links checked.
+
+FILE: src/programming-languages/ruby/regex-literals-in-ruby.md
+
+  0 links checked.
+
+FILE: src/blockchain/proof-of-work.md
+
+  0 links checked.
+
+FILE: src/blockchain/_blockchain.md
+
+  2 links checked.
+
+FILE: src/blockchain/proof-of-stake.md
+
+  1 links checked.
+
+FILE: src/index.md
+
+  23 links checked.
+
+FILE: src/til/sync-with-android.md
+
+  0 links checked.
+
+FILE: src/til/smart-pointers-in-rust.md
+
+  0 links checked.
+
+FILE: src/til/_til.md
+
+  7 links checked.
+
+FILE: src/til/use-sbrk-to-allocate-memory.md
+
+  0 links checked.
+
+FILE: src/til/heredocs.md
+
+  0 links checked.
+
+FILE: src/til/deque-in-c.md
+
+  0 links checked.
+
+FILE: src/til/min-stack-in-c.md
+
+  0 links checked.
+
+FILE: src/til/dtruss.md
+
+  0 links checked.
+
+FILE: src/til/rsync-to-remote-server.md
+
+  0 links checked.
+
+FILE: src/til/html-to-text.md
+
+  0 links checked.
+
+FILE: src/til/use-find-instead-of-globstar.md
+
+  0 links checked.
+
+FILE: src/recipes/README.md
+
+  0 links checked.
+
+FILE: src/recipes/recipes/jamaicancurrychickenandpotatoes.md
+  [✖] https://cooking.nytimes.com/recipes/1021842-jamaican-curry-chicken-and-potatoes.md
+
+  2 links checked.
+  [✖] https://cooking.nytimes.com/recipes/1021842-jamaican-curry-chicken-and-potatoes.md → Status: 400
+
+FILE: src/recipes/recipes/crab-cream-korokke-recipe-japanese-style-deep-fried-croquettes-filled-with-white-sauce-and-seafood.md
+  [✖] https://cookingwithdog.com/recipe/crab-cream-korokke/.md
+
+  2 links checked.
+  [✖] https://cookingwithdog.com/recipe/crab-cream-korokke/.md → Status: 403
+
+FILE: src/recipes/recipes/asian-chicken-noodle-soup.md
+  [✖] https://tiffycooks.com/asian-chicken-noodle-soup-instant-pot/.md
+
+  2 links checked.
+  [✖] https://tiffycooks.com/asian-chicken-noodle-soup-instant-pot/.md → Status: 404
+
+FILE: src/recipes/recipes/ginger-dill-salmon.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/cold-noodle-salad-with-spicy-peanut-sauce.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/_recipes.md
+
+  48 links checked.
+
+FILE: src/recipes/recipes/lemony-white-bean-soup-with-turkey-and-greens.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/creamy-baked-macaroni-and-cheese.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/grilled-zaatar-chicken-with-garlic-yogurt-and-cilantro.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/updated-no-knead-bread.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/birria-de-res.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/butter-chicken.md
+  [✖] https://cooking.nytimes.com/recipes/1016754-butter-chicken.md
+
+  2 links checked.
+  [✖] https://cooking.nytimes.com/recipes/1016754-butter-chicken.md → Status: 400
+
+FILE: src/recipes/recipes/baked-katsudon-japanese-crispy-baked-cutlet-rice-bowl.md
+  [✖] https://www.justonecookbook.com/baked-katsudon/.md
+
+  2 links checked.
+  [✖] https://www.justonecookbook.com/baked-katsudon/.md → Status: 404
+
+FILE: src/recipes/recipes/chicken-gyros.md
+  [✖] https://www.tasteofhome.com/recipes/chicken-gyros/.md
+
+  2 links checked.
+  [✖] https://www.tasteofhome.com/recipes/chicken-gyros/.md → Status: 403
+
+FILE: src/recipes/recipes/spicy-pan-fried-chickpeas-with-beef.md
+  [✖] https://www.kitchenstories.com/en/recipes/spicy-pan-fried-chickpeas-with-beef.md
+
+  2 links checked.
+  [✖] https://www.kitchenstories.com/en/recipes/spicy-pan-fried-chickpeas-with-beef.md → Status: 404
+
+FILE: src/recipes/recipes/braised-white-beans-and-greens-with-parmesan.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/crispy-gnocchi-with-burst-tomatoes-and-mozzarella.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/chickpea-salad-sandwich.md
+  [✖] https://tasty.co/recipe/chickpea-salad-sandwich.md
+
+  2 links checked.
+  [✖] https://tasty.co/recipe/chickpea-salad-sandwich.md → Status: 404
+
+FILE: src/recipes/recipes/slow-roast-leg-of-lamb.md
+  [✖] https://www.recipetineats.com/slow-roast-leg-of-lamb/.md
+
+  2 links checked.
+  [✖] https://www.recipetineats.com/slow-roast-leg-of-lamb/.md → Status: 404
+
+FILE: src/recipes/recipes/pearl-couscous-with-chicken-and-chickpeas.md
+  [✖] https://www.177milkstreet.com/recipes/pearl-couscous-with-chicken-and-chickpeas.md
+
+  2 links checked.
+  [✖] https://www.177milkstreet.com/recipes/pearl-couscous-with-chicken-and-chickpeas.md → Status: 404
+
+FILE: src/recipes/recipes/peshawari-chicken-karahi.md
+  [✖] https://www.kitchenstories.com/en/recipes/peshawari-chicken-karahi.md
+
+  2 links checked.
+  [✖] https://www.kitchenstories.com/en/recipes/peshawari-chicken-karahi.md → Status: 404
+
+FILE: src/recipes/recipes/egg-drop-soup-with-crab.md
+  [✖] https://tiffycooks.com/egg-drop-soup-with-crab-15-minutes/.md
+
+  2 links checked.
+  [✖] https://tiffycooks.com/egg-drop-soup-with-crab-15-minutes/.md → Status: 404
+
+FILE: src/recipes/recipes/vegetarian-pad-see-ew.md
+  [✖] https://tasty.co/recipe/vegetarian-pad-see-ew.md
+
+  2 links checked.
+  [✖] https://tasty.co/recipe/vegetarian-pad-see-ew.md → Status: 404
+
+FILE: src/recipes/recipes/croissants.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/perfect-buttermilk-pancakes.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/japanese-hamburger-steak-hambagu.md
+  [✖] https://www.justonecookbook.com/hamburger-steak-hambagu/.md
+
+  2 links checked.
+  [✖] https://www.justonecookbook.com/hamburger-steak-hambagu/.md → Status: 404
+
+FILE: src/recipes/recipes/chicken-katsu-curry.md
+  [✖] https://www.olivemagazine.com/recipes/meat-and-poultry/chicken-katsu-curry/.md
+
+  2 links checked.
+  [✖] https://www.olivemagazine.com/recipes/meat-and-poultry/chicken-katsu-curry/.md → Status: 404
+
+FILE: src/recipes/recipes/vanilla-creme-brulee.md
+  [✖] https://cooking.nytimes.com/recipes/9039-vanilla-creme-brulee.md
+
+  2 links checked.
+  [✖] https://cooking.nytimes.com/recipes/9039-vanilla-creme-brulee.md → Status: 400
+
+FILE: src/recipes/recipes/jamaican-curry-chicken-and-potatoes.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/vegan-hawaiian-tofu-and-pineapple-sandwich.md
+  [✖] https://vegnews.com/2021/1/vegan-hawaiian-tofu-and-pineapple-sandwich.md
+
+  2 links checked.
+  [✖] https://vegnews.com/2021/1/vegan-hawaiian-tofu-and-pineapple-sandwich.md → Status: 404
+
+FILE: src/recipes/recipes/karaage-fried-chicken-recipe-by-tasty.md
+  [✖] https://tasty.co/recipe/karaage-fried-chicken.md
+
+  2 links checked.
+  [✖] https://tasty.co/recipe/karaage-fried-chicken.md → Status: 404
+
+FILE: src/recipes/recipes/sheet-pan-bibimbap.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/coconut-chicken-curry.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/curry-udon.md
+  [✖] https://www.justonecookbook.com/curry-udon/.md
+
+  2 links checked.
+  [✖] https://www.justonecookbook.com/curry-udon/.md → Status: 404
+
+FILE: src/recipes/recipes/sheet-pan-chicken-with-zucchini-and-basil.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/everyday-pancakes.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/creamy-asparagus-pasta.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/pad-thai.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/pineapple-marinated-chicken-breasts.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/extra-creamy-scrambled-eggs.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/cucumber-avocado-salad.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/taiwanese-braised-pork-belly-made-in-an-instant-pot.md
+  [✖] https://tiffycooks.com/instant-pot-taiwanese-braised-pork-belly-fork-tender/.md
+
+  2 links checked.
+  [✖] https://tiffycooks.com/instant-pot-taiwanese-braised-pork-belly-fork-tender/.md → Status: 404
+
+FILE: src/recipes/recipes/copycat-chick-fil-a-sandwich.md
+  [✖] https://damndelicious.net/2015/05/16/copycat-chick-fil-a-sandwich.md
+
+  2 links checked.
+  [✖] https://damndelicious.net/2015/05/16/copycat-chick-fil-a-sandwich.md → Status: 404
+
+FILE: src/recipes/recipes/japanese-soufflé-pancakes.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/double-lemon-chicken.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/cauliflower-piccata.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/uzbek-plov.md
+  [✖] https://www.bbcgoodfood.com/user/186153/recipe/uzbek-plov.md
+
+  2 links checked.
+  [✖] https://www.bbcgoodfood.com/user/186153/recipe/uzbek-plov.md → Status: 404
+
+FILE: src/recipes/recipes/vegan-tantanmen-with-pan-fried-tofu.md
+
+  2 links checked.
+
+FILE: src/recipes/recipes/the-classic-kimchi-jjigae.md
+  [✖] https://mykoreankitchen.com/kimchi-jjigae/.md
+
+  2 links checked.
+  [✖] https://mykoreankitchen.com/kimchi-jjigae/.md → Status: 403
+
+FILE: src/recipes/recipes/greek-slow-roasted-leg-of-lamb.md
+  [✖] https://www.recipetineats.com/greek-slow-roasted-leg-of-lamb/.md
+
+  2 links checked.
+  [✖] https://www.recipetineats.com/greek-slow-roasted-leg-of-lamb/.md → Status: 404
+
+FILE: src/artificial-intelligence/the-bitter-lesson.md
+
+  0 links checked.
+
+FILE: src/artificial-intelligence/_artificial-intelligence.md
+
+  1 links checked.
+
+FILE: src/system-design/systemsexpert/storage.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/proxies.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/polling-and-streaming.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/logging-and-monitoring.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/security-and-https.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/caching.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/network-protocols.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/introduction-to-systemsexpert.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/hashing.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/leader-election.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/specialized-storage-systems.md
+
+  2 links checked.
+
+FILE: src/system-design/systemsexpert/api-design.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/rate-limiting.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/availability.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/what-are-design-fundamentals.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/relational-databases.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/configuration.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/load-balancers.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/peer-to-peer-networks.md
+
+  1 links checked.
+
+FILE: src/system-design/systemsexpert/mapreduce.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/key-value-stores.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/publish-subscribe-pattern.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/client-server-model.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/replication-and-sharding.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/_systemsexpert.md
+
+  0 links checked.
+
+FILE: src/system-design/systemsexpert/latency-and-throughput.md
+
+  0 links checked.
+
+FILE: src/system-design/design-netflix.md
+
+  0 links checked.
+
+FILE: src/system-design/_system-design.md
+
+  7 links checked.
+
+FILE: src/system-design/design-a-movie-ticketing-system.md
+
+  0 links checked.
+
+FILE: src/system-design/design-a-video-upload-system-with-low-bandwidth.md
+
+  0 links checked.
+
+FILE: src/system-design/design-a-voting-system.md
+
+  0 links checked.
+
+FILE: src/system-design/types-in-system-design.md
+
+  0 links checked.
+
+FILE: src/system-design/design-an-atm.md
+
+  0 links checked.
+
+FILE: src/compilers/crafting-interpreters/2_map_of_territory/crafting-interpreters-chapter-2.md
+
+  0 links checked.
+
+FILE: src/compilers/crafting-interpreters/2_map_of_territory/2.md
+
+  0 links checked.
+
+FILE: src/compilers/crafting-interpreters/_crafting-interpreters.md
+
+  0 links checked.
+
+FILE: src/compilers/crafting-interpreters/4_scanning/crafting-interpreters-chapter-4.md
+
+  0 links checked.
+
+FILE: src/compilers/crafting-interpreters/1_introduction/1.md
+
+  0 links checked.
+
+FILE: src/compilers/crafting-interpreters/1_introduction/crafting-interpreters-chapter-1.md
+
+  0 links checked.
+
+FILE: src/compilers/crafting-interpreters/3_lox_language/crafting-interpreters-chapter-3.md
+
+  0 links checked.
+
+FILE: src/compilers/crafting-interpreters/3_lox_language/3.md
+
+  0 links checked.
+
+FILE: src/compilers/_compilers.md
+
+  3 links checked.
+
+FILE: src/compilers/compiling-to-assembly-from-scratch/_compiling-to-assembly-from-scratch.md
+
+  0 links checked.
+
+FILE: src/compilers/interpreter-go/ch_1/notes.md
+
+  0 links checked.
+
+FILE: src/compilers/interpreter-go/ch_1/_index.md
+
+  0 links checked.
+
+FILE: src/compilers/interpreter-go/_interpreter-go.md
+
+  0 links checked.
+
+FILE: src/operating-systems/shell/find-ip-address-with-dig.md
+
+  0 links checked.
+
+FILE: src/operating-systems/shell/shellspec.md
+
+  0 links checked.
+
+FILE: src/operating-systems/shell/sort-a-csv.md
+
+  0 links checked.
+
+FILE: src/operating-systems/shell/hashmaps-in-bash.md
+
+  0 links checked.
+
+FILE: src/operating-systems/shell/looping-in-bash.md
+
+  0 links checked.
+
+FILE: src/operating-systems/shell/time-it-in-bash.md
+
+  0 links checked.
+
+FILE: src/operating-systems/shell/_shell.md
+
+  6 links checked.
+
+FILE: src/operating-systems/unix/_unix.md
+
+  0 links checked.
+
+FILE: src/operating-systems/_operating-systems.md
+
+  2 links checked.

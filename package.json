@@ -1,0 +1,16 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "lunr": "^2.3.9"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.9.0"
+  },
+    "scripts": {
+      "check:markdown": "find src/ -type f -name '*.md' -exec npx markdown-link-check --quiet {} \\; | tee links.txt"
+  }
+}
