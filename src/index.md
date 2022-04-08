@@ -68,3 +68,4 @@ title: "Recipes"
 - [Crispy Sheet-Pan Noodles With Glazed Tofu](./crispy-sheet-pan-noodles-with-glazed-tofu.md)
 - [Challah](./challah.md)
 - [Homemade Naan](./homemade-naan.md)
+- [Hainanese Chicken Rice Recipe By Tasty](./hainanese-chicken-rice-recipe-by-tasty.md)
