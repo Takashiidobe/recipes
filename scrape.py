@@ -2,7 +2,6 @@ import re
 
 from recipe_scrapers import scrape_me
 
-
 def scrape_recipe(url):
     scraper = scrape_me(url, wild_mode=True)
     s = ""
@@ -48,7 +47,6 @@ def scrape_recipe(url):
         snake_cased_title,
         scraper.title().replace("(", "").replace(")", "").replace("&", "and"),
     )
-
 
 recipes = []
 

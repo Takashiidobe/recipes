@@ -69,3 +69,4 @@ title: "Recipes"
 - [Challah](./challah.md)
 - [Homemade Naan](./homemade-naan.md)
 - [Hainanese Chicken Rice Recipe By Tasty](./hainanese-chicken-rice-recipe-by-tasty.md)
+- [Ozoni Japanese New Year Mochi Soup - Kanto Style](./ozoni-japanese-new-year-mochi-soup---kanto-style.md)
