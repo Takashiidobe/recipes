@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html
+  xmlns="http://www.w3.org/1999/xhtml"
+  lang=""
+  xml:lang=""
+  >
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+      
+    <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+
+    <title>vanilla-creme-brulee</title>
+    <style>
+      :root {
+        --background-color: #fdfdfd;
+        --color: #111;
+        --code-color: #555;
+        --link-color: #0000ee;
+        --link-color-visited: #0000ee;
+        --link-color-active: #0000ee;
+        --blockquote-color: #828282;
+        --single-tick-color: #9E9E00;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background-color: #010101;
+          --color: #eee;
+          --code-color: #555;
+          --link-color: #9E9EFF;
+          --link-color-visited: #D0ADF0;
+          --link-color-active: #FF9E9E;
+          --blockquote-color: #FF8C69;
+          --single-tick-color: #9E9E00;
+        }
+      }
+      a.pagefind-ui__result-link {
+        color: var(--link-color) !important;
+      }
+      p.pagefind-ui__result-excerpt {
+        color: var(--color) !important;
+      }
+      body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        background-color: var(--background-color);
+        color: var(--color);
+        -webkit-text-size-adjust: 100%;
+        font-feature-settings: "kern" 1;
+        font-kerning: normal;
+        margin: 0 auto;
+        max-width: 87.5%;
+        font-size: max(calc(14px + 0.2vw), calc(0.5vw));
+        padding: calc(5px + 0.2vw);
+      }
+      hr {
+        color: #bbb;
+        background-color: #bbb;
+        height: 1px;
+        flex: 0 1 auto;
+        margin: 1em 0;
+        padding: 0;
+        border: none;
+      }
+      a {
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      pre {
+        background-color: #f6f8fa;
+        border-radius: 3px;
+        font-size: 85%;
+        line-height: 1.45;
+        overflow: auto;
+        padding: 16px;
+      }
+      code {
+        color: var(--single-tick-color);
+        border-radius: 3px;
+        font-size: 85%;
+        margin: 0;
+        word-wrap: break-word;
+        padding: 0.2em 0.4em;
+        font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier,
+          monospace !important;
+      }
+      pre > code {
+        color: var(--code-color);
+        background-color: transparent;
+        border: 0;
+        display: inline;
+        line-height: inherit;
+        margin: 0;
+        overflow: visible;
+        padding: 0;
+        word-wrap: normal;
+        font-size: 100%;
+      }
+      .sourceCode {
+        overflow: auto !important;
+      }
+      blockquote {
+        margin-left: calc(1vw);
+        margin-top: calc(0vw);
+        margin-bottom: calc(1vw);
+        border-left-width: 3px;
+        padding: 0 1em;
+        color: var(--blockquote-color);
+        border-left: 4px solid #e8e8e8;
+        padding-left: calc(8px + 1vw);
+        font-size: 110%;
+        letter-spacing: -1px;
+        font-style: italic;
+      }
+      blockquote * {
+        font-style: normal !important;
+        letter-spacing: 0;
+      }
+      table {
+        color: var(--code-color);
+        border-spacing: 2px;
+        display: block;
+        font-size: 85%;
+        overflow: auto;
+        width: 100%;
+        margin-bottom: calc(1vw);
+        border-spacing: 0;
+        border-collapse: collapse;
+      }
+      td {
+        padding: 6px 13px;
+        border: 1px solid #dfe2e5;
+      }
+      th {
+        font-weight: 600;
+        padding: 6px 13px;
+        border: 1px solid #dfe2e5;
+      }
+      tr {
+        background-color: #fff;
+        border-top: 1px solid #c6cbd1;
+      }
+      table tr:nth-child(2n) {
+        background-color: #f6f8fa;
+      }
+      img {
+        max-width: 100%;
+      }
+      p {
+        line-height: 1.5;
+        font-size: 100%;
+      }
+      ul {
+        margin-top: 0;
+      }
+      li {
+        font-size: 100%;
+        line-height: 1.5;
+      }
+      li + li {
+        margin-top: 0.25em;
+      }
+      a {
+        color: var(--link-color);
+      }
+      a:active {
+        color: var(--link-color-active);
+      }
+      a:visited {
+        color: var(--link-color-visited);
+      }
+      h1 {
+        font-size: 125%;
+        margin: 0.67em 0;
+      }
+      h2 {
+        font-size: 112.5%;
+      }
+      h3 {
+        font-size: 100%;
+      }
+      h1,
+      h2 {
+        border-bottom: 1px solid #eaecef;
+        color: var(--color);
+      }
+    </style>
+      
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+    
+  </head>
+  <body>
+    
+        <header id="title-block-header">
+      <h1 class="title">vanilla-creme-brulee</h1>
+            </header>
+     
+    <div id="search"></div>
+
+    <h2>Table of Contents</h1>
+    <nav id="TOC" role="doc-toc"><ul>
+<li><a href="#vanilla-crème-brûlée">Vanilla Crème Brûlée</a>
+<ul>
+<li><a href="#ingredients">Ingredients:</a></li>
+<li><a href="#instructions">Instructions:</a></li>
+</ul></li>
+</ul></nav>
+     <p>Crème Brûlée</p>
+<figure>
+<img src="https://static01.nyt.com/images/2017/12/13/dining/15COOKING-CREME-BRULEE1/15COOKING-CREME-BRULEE1-articleLarge.jpg" alt="Vanilla Crème Brûlée" /><figcaption aria-hidden="true">Vanilla Crème Brûlée</figcaption>
+</figure>
+<h1 id="vanilla-crème-brûlée">Vanilla Crème Brûlée</h1>
+<ul>
+<li><p>From: <a href="https://cooking.nytimes.com/recipes/9039-vanilla-creme-brulee.md">link</a></p></li>
+<li><p>Cooking Time: 60 minutes</p></li>
+</ul>
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+<li>2 cups heavy or light cream, or half-and-half</li>
+<li>1 vanilla bean, split lengthwise, or 1 teaspoon vanilla extract</li>
+<li>1/8 teaspoon salt</li>
+<li>5 egg yolks</li>
+<li>1/2 cup sugar, more for topping</li>
+</ul>
+<h2 id="instructions">Instructions:</h2>
+<p>Heat oven to 325 degrees. In a saucepan, combine cream, vanilla bean and salt and cook over low heat just until hot. Let sit for a few minutes, then discard vanilla bean. (If using vanilla extract, add it now.)</p>
+<p>In a bowl, beat yolks and sugar together until light. Stir about a quarter of the cream into this mixture, then pour sugar-egg mixture into cream and stir. Pour into four 6-ounce ramekins and place ramekins in a baking dish; fill dish with boiling water halfway up the sides of the dishes. Bake for 30 to 40 minutes, or until centers are barely set. Cool completely. Refrigerate for several hours and up to a couple of days.</p>
+<p>When ready to serve, top each custard with about a teaspoon of sugar in a thin layer. Place ramekins in a broiler 2 to 3 inches from heat source. Turn on broiler. Cook until sugar melts and browns or even blackens a bit, about 5 minutes. Serve within two hours.</p> 
+    <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search" });
+        });
+    </script>
+  </body>
+</html>

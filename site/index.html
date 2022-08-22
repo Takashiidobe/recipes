@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html
+  xmlns="http://www.w3.org/1999/xhtml"
+  lang=""
+  xml:lang=""
+  >
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+      
+    <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+
+    <title>Recipes</title>
+    <style>
+      :root {
+        --background-color: #fdfdfd;
+        --color: #111;
+        --code-color: #555;
+        --link-color: #0000ee;
+        --link-color-visited: #0000ee;
+        --link-color-active: #0000ee;
+        --blockquote-color: #828282;
+        --single-tick-color: #9E9E00;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background-color: #010101;
+          --color: #eee;
+          --code-color: #555;
+          --link-color: #9E9EFF;
+          --link-color-visited: #D0ADF0;
+          --link-color-active: #FF9E9E;
+          --blockquote-color: #FF8C69;
+          --single-tick-color: #9E9E00;
+        }
+      }
+      a.pagefind-ui__result-link {
+        color: var(--link-color) !important;
+      }
+      p.pagefind-ui__result-excerpt {
+        color: var(--color) !important;
+      }
+      body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        background-color: var(--background-color);
+        color: var(--color);
+        -webkit-text-size-adjust: 100%;
+        font-feature-settings: "kern" 1;
+        font-kerning: normal;
+        margin: 0 auto;
+        max-width: 87.5%;
+        font-size: max(calc(14px + 0.2vw), calc(0.5vw));
+        padding: calc(5px + 0.2vw);
+      }
+      hr {
+        color: #bbb;
+        background-color: #bbb;
+        height: 1px;
+        flex: 0 1 auto;
+        margin: 1em 0;
+        padding: 0;
+        border: none;
+      }
+      a {
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      pre {
+        background-color: #f6f8fa;
+        border-radius: 3px;
+        font-size: 85%;
+        line-height: 1.45;
+        overflow: auto;
+        padding: 16px;
+      }
+      code {
+        color: var(--single-tick-color);
+        border-radius: 3px;
+        font-size: 85%;
+        margin: 0;
+        word-wrap: break-word;
+        padding: 0.2em 0.4em;
+        font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier,
+          monospace !important;
+      }
+      pre > code {
+        color: var(--code-color);
+        background-color: transparent;
+        border: 0;
+        display: inline;
+        line-height: inherit;
+        margin: 0;
+        overflow: visible;
+        padding: 0;
+        word-wrap: normal;
+        font-size: 100%;
+      }
+      .sourceCode {
+        overflow: auto !important;
+      }
+      blockquote {
+        margin-left: calc(1vw);
+        margin-top: calc(0vw);
+        margin-bottom: calc(1vw);
+        border-left-width: 3px;
+        padding: 0 1em;
+        color: var(--blockquote-color);
+        border-left: 4px solid #e8e8e8;
+        padding-left: calc(8px + 1vw);
+        font-size: 110%;
+        letter-spacing: -1px;
+        font-style: italic;
+      }
+      blockquote * {
+        font-style: normal !important;
+        letter-spacing: 0;
+      }
+      table {
+        color: var(--code-color);
+        border-spacing: 2px;
+        display: block;
+        font-size: 85%;
+        overflow: auto;
+        width: 100%;
+        margin-bottom: calc(1vw);
+        border-spacing: 0;
+        border-collapse: collapse;
+      }
+      td {
+        padding: 6px 13px;
+        border: 1px solid #dfe2e5;
+      }
+      th {
+        font-weight: 600;
+        padding: 6px 13px;
+        border: 1px solid #dfe2e5;
+      }
+      tr {
+        background-color: #fff;
+        border-top: 1px solid #c6cbd1;
+      }
+      table tr:nth-child(2n) {
+        background-color: #f6f8fa;
+      }
+      img {
+        max-width: 100%;
+      }
+      p {
+        line-height: 1.5;
+        font-size: 100%;
+      }
+      ul {
+        margin-top: 0;
+      }
+      li {
+        font-size: 100%;
+        line-height: 1.5;
+      }
+      li + li {
+        margin-top: 0.25em;
+      }
+      a {
+        color: var(--link-color);
+      }
+      a:active {
+        color: var(--link-color-active);
+      }
+      a:visited {
+        color: var(--link-color-visited);
+      }
+      h1 {
+        font-size: 125%;
+        margin: 0.67em 0;
+      }
+      h2 {
+        font-size: 112.5%;
+      }
+      h3 {
+        font-size: 100%;
+      }
+      h1,
+      h2 {
+        border-bottom: 1px solid #eaecef;
+        color: var(--color);
+      }
+    </style>
+      
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+    
+  </head>
+  <body>
+    
+        <header id="title-block-header">
+      <h1 class="title">Recipes</h1>
+            </header>
+     
+    <div id="search"></div>
+
+    <h2>Table of Contents</h1>
+    <nav id="TOC" role="doc-toc"><ul>
+<li><a href="#recipes">Recipes</a></li>
+</ul></nav>
+     <h1 id="recipes">Recipes</h1>
+<ul>
+<li><a href="./japanese-souffl%C3%A9-pancakes.html">Japanese Soufflé Pancakes</a></li>
+<li><a href="./peshawari-chicken-karahi.html">Peshawari Chicken Karahi</a></li>
+<li><a href="./pad-thai.html">Pad Thai</a></li>
+<li><a href="./karaage-fried-chicken-recipe-by-tasty.html">Karaage Fried Chicken Recipe by Tasty</a></li>
+<li><a href="./uzbek-plov.html">Uzbek Plov</a></li>
+<li><a href="./copycat-chick-fil-a-sandwich.html">Copycat Chick-fil-A Sandwich</a></li>
+<li><a href="./spicy-pan-fried-chickpeas-with-beef.html">Spicy Pan-fried Chickpeas With Beef</a></li>
+<li><a href="./chicken-katsu-curry.html">Chicken Katsu Curry</a></li>
+<li><a href="./crab-cream-korokke-recipe-japanese-style-deep-fried-croquettes-filled-with-white-sauce-and-seafood.html">Crab Cream Korokke Recipe Japanese-Style Deep-Fried Croquettes Filled With White Sauce And Seafood</a></li>
+<li><a href="./vegan-hawaiian-tofu-and-pineapple-sandwich.html">Vegan Hawaiian Tofu And Pineapple Sandwich</a></li>
+<li><a href="./everyday-pancakes.html">Everyday Pancakes</a></li>
+<li><a href="./perfect-buttermilk-pancakes.html">Perfect Buttermilk Pancakes</a></li>
+<li><a href="./japanese-hamburger-steak-hambagu.html">Japanese Hamburger Steak Hambagu</a></li>
+<li><a href="./butter-chicken.html">Butter Chicken</a></li>
+<li><a href="./egg-drop-soup-with-crab.html">Egg Drop Soup With Crab</a></li>
+<li><a href="./taiwanese-braised-pork-belly-made-in-an-instant-pot.html">Taiwanese Braised Pork Belly Made In An Instant Pot</a></li>
+<li><a href="./asian-chicken-noodle-soup.html">Asian Chicken Noodle Soup</a></li>
+<li><a href="./curry-udon.html">Curry Udon</a></li>
+<li><a href="./baked-katsudon-japanese-crispy-baked-cutlet-rice-bowl.html">Baked Katsudon Japanese Crispy Baked Cutlet Rice Bowl</a></li>
+<li><a href="./pearl-couscous-with-chicken-and-chickpeas.html">Pearl Couscous With Chicken And Chickpeas</a></li>
+<li><a href="./chicken-gyros.html">Chicken Gyros</a></li>
+<li><a href="./greek-slow-roasted-leg-of-lamb.html">Greek Slow Roasted Leg Of Lamb</a></li>
+<li><a href="./slow-roast-leg-of-lamb.html">Slow Roast Leg Of Lamb</a></li>
+<li><a href="./the-classic-kimchi-jjigae.html">The Classic, Kimchi Jjigae</a></li>
+<li><a href="./vanilla-creme-brulee.html">Vanilla Crème Brûlée</a></li>
+<li><a href="./vegetarian-pad-see-ew.html">Vegetarian Pad See Ew</a></li>
+<li><a href="./chickpea-salad-sandwich.html">Chickpea Salad Sandwich</a></li>
+<li><a href="./jamaican-curry-chicken-and-potatoes.html">Jamaican Curry Chicken And Potatoes</a></li>
+<li><a href="./vegan-tantanmen-with-pan-fried-tofu.html">Vegan Tantanmen With Pan-Fried Tofu</a></li>
+<li><a href="./coconut-chicken-curry.html">Coconut Chicken Curry</a></li>
+<li><a href="./braised-white-beans-and-greens-with-parmesan.html">Braised White Beans And Greens With Parmesan</a></li>
+<li><a href="./cauliflower-piccata.html">Cauliflower Piccata</a></li>
+<li><a href="./sheet-pan-chicken-with-zucchini-and-basil.html">Sheet-Pan Chicken With Zucchini And Basil</a></li>
+<li><a href="./creamy-asparagus-pasta.html">Creamy Asparagus Pasta</a></li>
+<li><a href="./pineapple-marinated-chicken-breasts.html">Pineapple-Marinated Chicken Breasts</a></li>
+<li><a href="./double-lemon-chicken.html">Double Lemon Chicken</a></li>
+<li><a href="./croissants.html">Croissants</a></li>
+<li><a href="./ginger-dill-salmon.html">Ginger-Dill Salmon</a></li>
+<li><a href="./birria-de-res.html">Birria De Res</a></li>
+<li><a href="./sheet-pan-bibimbap.html">Sheet-Pan Bibimbap</a></li>
+<li><a href="./cucumber-avocado-salad.html">Cucumber-Avocado Salad</a></li>
+<li><a href="./grilled-zaatar-chicken-with-garlic-yogurt-and-cilantro.html">Grilled Za’Atar Chicken With Garlic Yogurt And Cilantro</a></li>
+<li><a href="./updated-no-knead-bread.html">Updated No-Knead Bread</a></li>
+<li><a href="./cold-noodle-salad-with-spicy-peanut-sauce.html">Cold Noodle Salad With Spicy Peanut Sauce</a></li>
+<li><a href="./crispy-gnocchi-with-burst-tomatoes-and-mozzarella.html">Crispy Gnocchi With Burst Tomatoes And Mozzarella</a></li>
+<li><a href="./lemony-white-bean-soup-with-turkey-and-greens.html">Lemony White Bean Soup With Turkey And Greens</a></li>
+<li><a href="./creamy-baked-macaroni-and-cheese.html">Creamy Baked Macaroni And Cheese</a></li>
+<li><a href="./extra-creamy-scrambled-eggs.html">Extra-Creamy Scrambled Eggs</a></li>
+<li><a href="./oven-roasted-chicken-shawarma.html">Oven-Roasted Chicken Shawarma</a></li>
+<li><a href="./murgh-makhani-butter-chicken.html">Murgh Makhani Butter Chicken</a></li>
+<li><a href="./the-perfect-rice-recipe-spanish-paella.html">The Perfect Rice Recipe Spanish Paella</a></li>
+<li><a href="./tonjiru-pork-and-vegetable-miso-soup.html">Tonjiru Pork And Vegetable Miso Soup</a></li>
+<li><a href="./gingery-fried-rice-with-bok-choy-mushrooms-and-basil.html">Gingery Fried Rice With Bok Choy, Mushrooms And Basil</a></li>
+<li><a href="./japanese-curry.html">Japanese Curry</a></li>
+<li><a href="./lo-mein.html">Lo Mein</a></li>
+<li><a href="./buffalo-chicken-rice-bowls.html">Buffalo Chicken Rice Bowls</a></li>
+<li><a href="./korean-barbecue-style-meatballs.html">Korean Barbecue-Style Meatballs</a></li>
+<li><a href="./crispy-sheet-pan-noodles-with-glazed-tofu.html">Crispy Sheet-Pan Noodles With Glazed Tofu</a></li>
+<li><a href="./challah.html">Challah</a></li>
+<li><a href="./homemade-naan.html">Homemade Naan</a></li>
+<li><a href="./hainanese-chicken-rice-recipe-by-tasty.html">Hainanese Chicken Rice Recipe By Tasty</a></li>
+<li><a href="./ozoni-japanese-new-year-mochi-soup---kanto-style.html">Ozoni Japanese New Year Mochi Soup - Kanto Style</a></li>
+<li><a href="./korean-bbq-at-home.html">Korean Bbq At Home</a></li>
+<li><a href="./korean-style-bbq-beef-recipe-by-tasty.html">Korean-Style Bbq Beef Recipe By Tasty</a></li>
+<li><a href="./chicken-biryani.html">Biryani</a></li>
+<li><a href="./spiced-roast-chicken-with-tangy-yogurt-sauce.html">Spiced Roast Chicken With Tangy Yogurt Sauce</a></li>
+</ul> 
+    <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search" });
+        });
+    </script>
+  </body>
+</html>

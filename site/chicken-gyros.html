@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html
+  xmlns="http://www.w3.org/1999/xhtml"
+  lang=""
+  xml:lang=""
+  >
+  <head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+      
+    <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+
+    <title>chicken-gyros</title>
+    <style>
+      :root {
+        --background-color: #fdfdfd;
+        --color: #111;
+        --code-color: #555;
+        --link-color: #0000ee;
+        --link-color-visited: #0000ee;
+        --link-color-active: #0000ee;
+        --blockquote-color: #828282;
+        --single-tick-color: #9E9E00;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background-color: #010101;
+          --color: #eee;
+          --code-color: #555;
+          --link-color: #9E9EFF;
+          --link-color-visited: #D0ADF0;
+          --link-color-active: #FF9E9E;
+          --blockquote-color: #FF8C69;
+          --single-tick-color: #9E9E00;
+        }
+      }
+      a.pagefind-ui__result-link {
+        color: var(--link-color) !important;
+      }
+      p.pagefind-ui__result-excerpt {
+        color: var(--color) !important;
+      }
+      body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        background-color: var(--background-color);
+        color: var(--color);
+        -webkit-text-size-adjust: 100%;
+        font-feature-settings: "kern" 1;
+        font-kerning: normal;
+        margin: 0 auto;
+        max-width: 87.5%;
+        font-size: max(calc(14px + 0.2vw), calc(0.5vw));
+        padding: calc(5px + 0.2vw);
+      }
+      hr {
+        color: #bbb;
+        background-color: #bbb;
+        height: 1px;
+        flex: 0 1 auto;
+        margin: 1em 0;
+        padding: 0;
+        border: none;
+      }
+      a {
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      pre {
+        background-color: #f6f8fa;
+        border-radius: 3px;
+        font-size: 85%;
+        line-height: 1.45;
+        overflow: auto;
+        padding: 16px;
+      }
+      code {
+        color: var(--single-tick-color);
+        border-radius: 3px;
+        font-size: 85%;
+        margin: 0;
+        word-wrap: break-word;
+        padding: 0.2em 0.4em;
+        font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, Courier,
+          monospace !important;
+      }
+      pre > code {
+        color: var(--code-color);
+        background-color: transparent;
+        border: 0;
+        display: inline;
+        line-height: inherit;
+        margin: 0;
+        overflow: visible;
+        padding: 0;
+        word-wrap: normal;
+        font-size: 100%;
+      }
+      .sourceCode {
+        overflow: auto !important;
+      }
+      blockquote {
+        margin-left: calc(1vw);
+        margin-top: calc(0vw);
+        margin-bottom: calc(1vw);
+        border-left-width: 3px;
+        padding: 0 1em;
+        color: var(--blockquote-color);
+        border-left: 4px solid #e8e8e8;
+        padding-left: calc(8px + 1vw);
+        font-size: 110%;
+        letter-spacing: -1px;
+        font-style: italic;
+      }
+      blockquote * {
+        font-style: normal !important;
+        letter-spacing: 0;
+      }
+      table {
+        color: var(--code-color);
+        border-spacing: 2px;
+        display: block;
+        font-size: 85%;
+        overflow: auto;
+        width: 100%;
+        margin-bottom: calc(1vw);
+        border-spacing: 0;
+        border-collapse: collapse;
+      }
+      td {
+        padding: 6px 13px;
+        border: 1px solid #dfe2e5;
+      }
+      th {
+        font-weight: 600;
+        padding: 6px 13px;
+        border: 1px solid #dfe2e5;
+      }
+      tr {
+        background-color: #fff;
+        border-top: 1px solid #c6cbd1;
+      }
+      table tr:nth-child(2n) {
+        background-color: #f6f8fa;
+      }
+      img {
+        max-width: 100%;
+      }
+      p {
+        line-height: 1.5;
+        font-size: 100%;
+      }
+      ul {
+        margin-top: 0;
+      }
+      li {
+        font-size: 100%;
+        line-height: 1.5;
+      }
+      li + li {
+        margin-top: 0.25em;
+      }
+      a {
+        color: var(--link-color);
+      }
+      a:active {
+        color: var(--link-color-active);
+      }
+      a:visited {
+        color: var(--link-color-visited);
+      }
+      h1 {
+        font-size: 125%;
+        margin: 0.67em 0;
+      }
+      h2 {
+        font-size: 112.5%;
+      }
+      h3 {
+        font-size: 100%;
+      }
+      h1,
+      h2 {
+        border-bottom: 1px solid #eaecef;
+        color: var(--color);
+      }
+    </style>
+      
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+    
+  </head>
+  <body>
+    
+        <header id="title-block-header">
+      <h1 class="title">chicken-gyros</h1>
+            </header>
+     
+    <div id="search"></div>
+
+    <h2>Table of Contents</h1>
+    <nav id="TOC" role="doc-toc"><ul>
+<li><a href="#chicken-gyros">Chicken Gyros</a>
+<ul>
+<li><a href="#ingredients">Ingredients:</a></li>
+<li><a href="#instructions">Instructions:</a></li>
+</ul></li>
+</ul></nav>
+     <p>Gyros</p>
+<figure>
+<img src="https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Chicken-Gyros_exps23685_BOS3149327B02_08_4bC_RMS.jpg" alt="Chicken Gyros" /><figcaption aria-hidden="true">Chicken Gyros</figcaption>
+</figure>
+<h1 id="chicken-gyros">Chicken Gyros</h1>
+<ul>
+<li><p>From: <a href="https://www.tasteofhome.com/recipes/chicken-gyros/.md">link</a></p></li>
+<li><p>Cooking Time: 30 minutes</p></li>
+</ul>
+<h2 id="ingredients">Ingredients:</h2>
+<ul>
+<li>1/4 cup lemon juice</li>
+<li>2 tablespoons olive oil</li>
+<li>3/4 teaspoon minced garlic, divided</li>
+<li>1/2 teaspoon ground mustard</li>
+<li>1/2 teaspoon dried oregano</li>
+<li>1/2 pound boneless skinless chicken breasts, cut into 1/2-inch strips</li>
+<li>1/2 cup chopped peeled cucumber</li>
+<li>1/3 cup plain yogurt</li>
+<li>1/4 teaspoon dill weed</li>
+<li>2 whole pita breads</li>
+<li>1/2 small red onion, thinly sliced</li>
+</ul>
+<h2 id="instructions">Instructions:</h2>
+<p>In a large resealable plastic bag, combine the lemon juice, oil, 1/2 teaspoon garlic, mustard and oregano; add chicken. Seal bag and turn to coat; refrigerate for at least 1 hour. In a small bowl, combine the cucumber, yogurt, dill and remaining garlic; cover and refrigerate until serving.</p>
+<p>Drain and discard marinade. In a large nonstick skillet, cook and stir the chicken for 7-8 minutes or until no longer pink. Spoon onto pita breads. Top with yogurt mixture and onion; fold in half.</p> 
+    <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search" });
+        });
+    </script>
+  </body>
+</html>
